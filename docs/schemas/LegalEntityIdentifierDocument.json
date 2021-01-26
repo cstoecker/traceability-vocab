@@ -1,16 +1,16 @@
 {
-    "$id": "https://w3id.org/traceability/schemas/LEIevidenceDocument.json",
+    "$id": "https://w3id.org/traceability/schemas/LegalEntityIdentifierDocument.json",
     "$schema": "http://json-schema.org/draft-07/schema#", 
-    "$comment": "{\"term\": \"LEIevidenceDocument\", \"@id\": \"https://w3id.org/traceability/LEIevidenceDocument\"}",
-    "title": "LEIevidenceDocument", 
-    "description": "GLEIF LEI Redord Level 1 Schema",
+    "$comment": "{\"term\": \"LegalEntityIdentifierDocument\", \"@id\": \"https://w3id.org/traceability/LegalEntityIdentifierDocument\"}",
+    "title": "LegalEntityIdentifierDocument", 
+    "description": "GLEIF LEI Redord Schema",
 	"type": "object",
 	"required": [
 		"data"
 	],
 	"properties": {
 		"data": {
-			"$id": "LEIevidenceDocument/data", 
+			"$id": "LegalEntityIdentifierDocument/data", 
 			"title": "Data", 
 			"type": "object",
 			"required": [
@@ -22,21 +22,21 @@
 			],
 			"properties": {
 				"type": {
-					"$id": "LEIevidenceDocument/data/type", 
+					"$id": "LegalEntityIdentifierDocument/data/type", 
 					"title": "Type", 
 					"type": "string",
 					"default": "",
 					"pattern": "^.*$"
 				},
 				"id": {
-					"$id": "LEIevidenceDocument/data/id", 
+					"$id": "LegalEntityIdentifierDocument/data/id", 
 					"title": "Id", 
 					"type": "string",
 					"default": "",
 					"pattern": "^.*$"
 				},
 				"attributes": {
-					"$id": "LEIevidenceDocument/data/attributes", 
+					"$id": "LegalEntityIdentifierDocument/data/attributes", 
 					"title": "Attributes", 
 					"type": "object",
 					"required": [
@@ -47,14 +47,14 @@
 					],
 					"properties": {
 						"lei": {
-							"$id": "LEIevidenceDocument/data/attributes/lei", 
+							"$id": "LegalEntityIdentifierDocument/data/attributes/lei", 
 							"title": "Lei", 
 							"type": "string",
 							"default": "",
 							"pattern": "^.*$"
 						},
 						"entity": {
-							"$id": "LEIevidenceDocument/data/attributes/entity", 
+							"$id": "LegalEntityIdentifierDocument/data/attributes/entity", 
 							"title": "Entity", 
 							"type": "object",
 							"required": [
@@ -76,7 +76,7 @@
 							],
 							"properties": {
 								"legalName": {
-									"$id": "LEIevidenceDocument/data/attributes/entity/legalName", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalName", 
 									"title": "Legalname", 
 									"type": "object",
 									"required": [
@@ -85,14 +85,14 @@
 									],
 									"properties": {
 										"name": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/legalName/name", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalName/name", 
 											"title": "Name", 
 											"type": "string",
 											"default": "",
 											"pattern": "^.*$"
 										},
 										"language": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/legalName/language", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalName/language", 
 											"title": "Language", 
 											"type": "null",
 											"default": null
@@ -101,19 +101,19 @@
 								}
 ,
 								"otherNames": {
-									"$id": "LEIevidenceDocument/data/attributes/entity/otherNames", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/entity/otherNames", 
 									"title": "Othernames", 
 									"type": "array",
 									"default": []
 								},
 								"transliteratedOtherNames": {
-									"$id": "LEIevidenceDocument/data/attributes/entity/transliteratedOtherNames", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/entity/transliteratedOtherNames", 
 									"title": "Transliteratedothernames", 
 									"type": "array",
 									"default": []
 								},
 								"legalAddress": {
-									"$id": "LEIevidenceDocument/data/attributes/entity/legalAddress", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalAddress", 
 									"title": "Legaladdress", 
 									"type": "object",
 									"required": [
@@ -129,18 +129,18 @@
 									],
 									"properties": {
 										"language": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/legalAddress/language", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalAddress/language", 
 											"title": "Language", 
 											"type": "null",
 											"default": null
 										},
 										"addressLines": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/legalAddress/addressLines", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalAddress/addressLines", 
 											"title": "Addresslines", 
 											"type": "array",
 											"default": [],
 											"items":{
-												"$id": "LEIevidenceDocument/data/attributes/entity/legalAddress/addressLines/items", 
+												"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalAddress/addressLines/items", 
 												"title": "Items", 
 												"type": "string",
 												"default": "",
@@ -148,46 +148,46 @@
 											}
 										},
 										"addressNumber": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/legalAddress/addressNumber", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalAddress/addressNumber", 
 											"title": "Addressnumber", 
 											"type": "null",
 											"default": null
 										},
 										"addressNumberWithinBuilding": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/legalAddress/addressNumberWithinBuilding", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalAddress/addressNumberWithinBuilding", 
 											"title": "Addressnumberwithinbuilding", 
 											"type": "null",
 											"default": null
 										},
 										"mailRouting": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/legalAddress/mailRouting", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalAddress/mailRouting", 
 											"title": "Mailrouting", 
 											"type": "null",
 											"default": null
 										},
 										"city": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/legalAddress/city", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalAddress/city", 
 											"title": "City", 
 											"type": "string",
 											"default": "",
 											"pattern": "^.*$"
 										},
 										"region": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/legalAddress/region", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalAddress/region", 
 											"title": "Region", 
 											"type": "string",
 											"default": "",
 											"pattern": "^.*$"
 										},
 										"country": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/legalAddress/country", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalAddress/country", 
 											"title": "Country", 
 											"type": "string",
 											"default": "",
 											"pattern": "^.*$"
 										},
 										"postalCode": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/legalAddress/postalCode", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalAddress/postalCode", 
 											"title": "Postalcode", 
 											"type": "string",
 											"default": "",
@@ -197,7 +197,7 @@
 								}
 ,
 								"headquartersAddress": {
-									"$id": "LEIevidenceDocument/data/attributes/entity/headquartersAddress", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/entity/headquartersAddress", 
 									"title": "Headquartersaddress", 
 									"type": "object",
 									"required": [
@@ -213,18 +213,18 @@
 									],
 									"properties": {
 										"language": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/headquartersAddress/language", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/headquartersAddress/language", 
 											"title": "Language", 
 											"type": "null",
 											"default": null
 										},
 										"addressLines": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/headquartersAddress/addressLines", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/headquartersAddress/addressLines", 
 											"title": "Addresslines", 
 											"type": "array",
 											"default": [],
 											"items":{
-												"$id": "LEIevidenceDocument/data/attributes/entity/headquartersAddress/addressLines/items", 
+												"$id": "LegalEntityIdentifierDocument/data/attributes/entity/headquartersAddress/addressLines/items", 
 												"title": "Items", 
 												"type": "string",
 												"default": "",
@@ -232,46 +232,46 @@
 											}
 										},
 										"addressNumber": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/headquartersAddress/addressNumber", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/headquartersAddress/addressNumber", 
 											"title": "Addressnumber", 
 											"type": "null",
 											"default": null
 										},
 										"addressNumberWithinBuilding": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/headquartersAddress/addressNumberWithinBuilding", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/headquartersAddress/addressNumberWithinBuilding", 
 											"title": "Addressnumberwithinbuilding", 
 											"type": "null",
 											"default": null
 										},
 										"mailRouting": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/headquartersAddress/mailRouting", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/headquartersAddress/mailRouting", 
 											"title": "Mailrouting", 
 											"type": "null",
 											"default": null
 										},
 										"city": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/headquartersAddress/city", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/headquartersAddress/city", 
 											"title": "City", 
 											"type": "string",
 											"default": "",
 											"pattern": "^.*$"
 										},
 										"region": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/headquartersAddress/region", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/headquartersAddress/region", 
 											"title": "Region", 
 											"type": "string",
 											"default": "",
 											"pattern": "^.*$"
 										},
 										"country": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/headquartersAddress/country", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/headquartersAddress/country", 
 											"title": "Country", 
 											"type": "string",
 											"default": "",
 											"pattern": "^.*$"
 										},
 										"postalCode": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/headquartersAddress/postalCode", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/headquartersAddress/postalCode", 
 											"title": "Postalcode", 
 											"type": "string",
 											"default": "",
@@ -281,7 +281,7 @@
 								}
 ,
 								"registeredAt": {
-									"$id": "LEIevidenceDocument/data/attributes/entity/registeredAt", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/entity/registeredAt", 
 									"title": "Registeredat", 
 									"type": "object",
 									"required": [
@@ -290,14 +290,14 @@
 									],
 									"properties": {
 										"id": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/registeredAt/id", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/registeredAt/id", 
 											"title": "Id", 
 											"type": "string",
 											"default": "",
 											"pattern": "^.*$"
 										},
 										"other": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/registeredAt/other", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/registeredAt/other", 
 											"title": "Other", 
 											"type": "null",
 											"default": null
@@ -306,27 +306,27 @@
 								}
 ,
 								"registeredAs": {
-									"$id": "LEIevidenceDocument/data/attributes/entity/registeredAs", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/entity/registeredAs", 
 									"title": "Registeredas", 
 									"type": "string",
 									"default": "",
 									"pattern": "^.*$"
 								},
 								"jurisdiction": {
-									"$id": "LEIevidenceDocument/data/attributes/entity/jurisdiction", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/entity/jurisdiction", 
 									"title": "Jurisdiction", 
 									"type": "string",
 									"default": "",
 									"pattern": "^.*$"
 								},
 								"category": {
-									"$id": "LEIevidenceDocument/data/attributes/entity/category", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/entity/category", 
 									"title": "Category", 
 									"type": "null",
 									"default": null
 								},
 								"legalForm": {
-									"$id": "LEIevidenceDocument/data/attributes/entity/legalForm", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalForm", 
 									"title": "Legalform", 
 									"type": "object",
 									"required": [
@@ -335,14 +335,14 @@
 									],
 									"properties": {
 										"id": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/legalForm/id", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalForm/id", 
 											"title": "Id", 
 											"type": "string",
 											"default": "",
 											"pattern": "^.*$"
 										},
 										"other": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/legalForm/other", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/legalForm/other", 
 											"title": "Other", 
 											"type": "null",
 											"default": null
@@ -351,7 +351,7 @@
 								}
 ,
 								"associatedEntity": {
-									"$id": "LEIevidenceDocument/data/attributes/entity/associatedEntity", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/entity/associatedEntity", 
 									"title": "Associatedentity", 
 									"type": "object",
 									"required": [
@@ -360,13 +360,13 @@
 									],
 									"properties": {
 										"lei": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/associatedEntity/lei", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/associatedEntity/lei", 
 											"title": "Lei", 
 											"type": "null",
 											"default": null
 										},
 										"name": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/associatedEntity/name", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/associatedEntity/name", 
 											"title": "Name", 
 											"type": "null",
 											"default": null
@@ -375,14 +375,14 @@
 								}
 ,
 								"status": {
-									"$id": "LEIevidenceDocument/data/attributes/entity/status", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/entity/status", 
 									"title": "Status", 
 									"type": "string",
 									"default": "",
 									"pattern": "^.*$"
 								},
 								"expiration": {
-									"$id": "LEIevidenceDocument/data/attributes/entity/expiration", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/entity/expiration", 
 									"title": "Expiration", 
 									"type": "object",
 									"required": [
@@ -391,13 +391,13 @@
 									],
 									"properties": {
 										"date": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/expiration/date", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/expiration/date", 
 											"title": "Date", 
 											"type": "null",
 											"default": null
 										},
 										"reason": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/expiration/reason", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/expiration/reason", 
 											"title": "Reason", 
 											"type": "null",
 											"default": null
@@ -406,7 +406,7 @@
 								}
 ,
 								"successorEntity": {
-									"$id": "LEIevidenceDocument/data/attributes/entity/successorEntity", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/entity/successorEntity", 
 									"title": "Successorentity", 
 									"type": "object",
 									"required": [
@@ -415,13 +415,13 @@
 									],
 									"properties": {
 										"lei": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/successorEntity/lei", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/successorEntity/lei", 
 											"title": "Lei", 
 											"type": "null",
 											"default": null
 										},
 										"name": {
-											"$id": "LEIevidenceDocument/data/attributes/entity/successorEntity/name", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/entity/successorEntity/name", 
 											"title": "Name", 
 											"type": "null",
 											"default": null
@@ -430,7 +430,7 @@
 								}
 ,
 								"otherAddresses": {
-									"$id": "LEIevidenceDocument/data/attributes/entity/otherAddresses", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/entity/otherAddresses", 
 									"title": "Otheraddresses", 
 									"type": "array",
 									"default": []
@@ -439,7 +439,7 @@
 						}
 ,
 						"registration": {
-							"$id": "LEIevidenceDocument/data/attributes/registration", 
+							"$id": "LegalEntityIdentifierDocument/data/attributes/registration", 
 							"title": "Registration", 
 							"type": "object",
 							"required": [
@@ -455,49 +455,49 @@
 							],
 							"properties": {
 								"initialRegistrationDate": {
-									"$id": "LEIevidenceDocument/data/attributes/registration/initialRegistrationDate", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/registration/initialRegistrationDate", 
 									"title": "Initialregistrationdate", 
 									"type": "string",
 									"default": "",
 									"pattern": "^.*$"
 								},
 								"lastUpdateDate": {
-									"$id": "LEIevidenceDocument/data/attributes/registration/lastUpdateDate", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/registration/lastUpdateDate", 
 									"title": "Lastupdatedate", 
 									"type": "string",
 									"default": "",
 									"pattern": "^.*$"
 								},
 								"status": {
-									"$id": "LEIevidenceDocument/data/attributes/registration/status", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/registration/status", 
 									"title": "Status", 
 									"type": "string",
 									"default": "",
 									"pattern": "^.*$"
 								},
 								"nextRenewalDate": {
-									"$id": "LEIevidenceDocument/data/attributes/registration/nextRenewalDate", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/registration/nextRenewalDate", 
 									"title": "Nextrenewaldate", 
 									"type": "string",
 									"default": "",
 									"pattern": "^.*$"
 								},
 								"managingLou": {
-									"$id": "LEIevidenceDocument/data/attributes/registration/managingLou", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/registration/managingLou", 
 									"title": "Managinglou", 
 									"type": "string",
 									"default": "",
 									"pattern": "^.*$"
 								},
 								"corroborationLevel": {
-									"$id": "LEIevidenceDocument/data/attributes/registration/corroborationLevel", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/registration/corroborationLevel", 
 									"title": "Corroborationlevel", 
 									"type": "string",
 									"default": "",
 									"pattern": "^.*$"
 								},
 								"validatedAt": {
-									"$id": "LEIevidenceDocument/data/attributes/registration/validatedAt", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/registration/validatedAt", 
 									"title": "Validatedat", 
 									"type": "object",
 									"required": [
@@ -506,14 +506,14 @@
 									],
 									"properties": {
 										"id": {
-											"$id": "LEIevidenceDocument/data/attributes/registration/validatedAt/id", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/registration/validatedAt/id", 
 											"title": "Id", 
 											"type": "string",
 											"default": "",
 											"pattern": "^.*$"
 										},
 										"other": {
-											"$id": "LEIevidenceDocument/data/attributes/registration/validatedAt/other", 
+											"$id": "LegalEntityIdentifierDocument/data/attributes/registration/validatedAt/other", 
 											"title": "Other", 
 											"type": "null",
 											"default": null
@@ -522,19 +522,19 @@
 								}
 ,
 								"validatedAs": {
-									"$id": "LEIevidenceDocument/data/attributes/registration/validatedAs", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/registration/validatedAs", 
 									"title": "Validatedas", 
 									"type": "string",
 									"default": "",
 									"pattern": "^.*$"
 								},
 								"otherValidationAuthorities": {
-									"$id": "LEIevidenceDocument/data/attributes/registration/otherValidationAuthorities", 
+									"$id": "LegalEntityIdentifierDocument/data/attributes/registration/otherValidationAuthorities", 
 									"title": "Othervalidationauthorities", 
 									"type": "array",
 									"default": [],
 									"items":{
-										"$id": "LEIevidenceDocument/data/attributes/registration/otherValidationAuthorities/items", 
+										"$id": "LegalEntityIdentifierDocument/data/attributes/registration/otherValidationAuthorities/items", 
 										"title": "Items", 
 										"type": "object",
 										"required": [
@@ -543,7 +543,7 @@
 										],
 										"properties": {
 											"validatedAt": {
-												"$id": "LEIevidenceDocument/data/attributes/registration/otherValidationAuthorities/items/validatedAt", 
+												"$id": "LegalEntityIdentifierDocument/data/attributes/registration/otherValidationAuthorities/items/validatedAt", 
 												"title": "Validatedat", 
 												"type": "object",
 												"required": [
@@ -551,7 +551,7 @@
 												],
 												"properties": {
 													"id": {
-														"$id": "LEIevidenceDocument/data/attributes/registration/otherValidationAuthorities/items/validatedAt/id", 
+														"$id": "LegalEntityIdentifierDocument/data/attributes/registration/otherValidationAuthorities/items/validatedAt/id", 
 														"title": "Id", 
 														"type": "string",
 														"default": "",
@@ -561,7 +561,7 @@
 											}
 ,
 											"validatedAs": {
-												"$id": "LEIevidenceDocument/data/attributes/registration/otherValidationAuthorities/items/validatedAs", 
+												"$id": "LegalEntityIdentifierDocument/data/attributes/registration/otherValidationAuthorities/items/validatedAs", 
 												"title": "Validatedas", 
 												"type": "string",
 												"default": "",
@@ -575,12 +575,12 @@
 						}
 ,
 						"bic": {
-							"$id": "LEIevidenceDocument/data/attributes/bic", 
+							"$id": "LegalEntityIdentifierDocument/data/attributes/bic", 
 							"title": "Bic", 
 							"type": "array",
 							"default": [],
 							"items":{
-								"$id": "LEIevidenceDocument/data/attributes/bic/items", 
+								"$id": "LegalEntityIdentifierDocument/data/attributes/bic/items", 
 								"title": "Items", 
 								"type": "string",
 								"default": "",
@@ -591,7 +591,7 @@
 				}
 ,
 				"relationships": {
-					"$id": "LEIevidenceDocument/data/relationships", 
+					"$id": "LegalEntityIdentifierDocument/data/relationships", 
 					"title": "Relationships", 
 					"type": "object",
 					"required": [
@@ -604,7 +604,7 @@
 					],
 					"properties": {
 						"managing-lou": {
-							"$id": "LEIevidenceDocument/data/relationships/managing-lou", 
+							"$id": "LegalEntityIdentifierDocument/data/relationships/managing-lou", 
 							"title": "Managing-lou", 
 							"type": "object",
 							"required": [
@@ -612,7 +612,7 @@
 							],
 							"properties": {
 								"links": {
-									"$id": "LEIevidenceDocument/data/relationships/managing-lou/links", 
+									"$id": "LegalEntityIdentifierDocument/data/relationships/managing-lou/links", 
 									"title": "Links", 
 									"type": "object",
 									"required": [
@@ -620,7 +620,7 @@
 									],
 									"properties": {
 										"related": {
-											"$id": "LEIevidenceDocument/data/relationships/managing-lou/links/related", 
+											"$id": "LegalEntityIdentifierDocument/data/relationships/managing-lou/links/related", 
 											"title": "Related", 
 											"type": "string",
 											"default": "",
@@ -633,7 +633,7 @@
 						}
 ,
 						"lei-issuer": {
-							"$id": "LEIevidenceDocument/data/relationships/lei-issuer", 
+							"$id": "LegalEntityIdentifierDocument/data/relationships/lei-issuer", 
 							"title": "Lei-issuer", 
 							"type": "object",
 							"required": [
@@ -641,7 +641,7 @@
 							],
 							"properties": {
 								"links": {
-									"$id": "LEIevidenceDocument/data/relationships/lei-issuer/links", 
+									"$id": "LegalEntityIdentifierDocument/data/relationships/lei-issuer/links", 
 									"title": "Links", 
 									"type": "object",
 									"required": [
@@ -649,7 +649,7 @@
 									],
 									"properties": {
 										"related": {
-											"$id": "LEIevidenceDocument/data/relationships/lei-issuer/links/related", 
+											"$id": "LegalEntityIdentifierDocument/data/relationships/lei-issuer/links/related", 
 											"title": "Related", 
 											"type": "string",
 											"default": "",
@@ -662,7 +662,7 @@
 						}
 ,
 						"direct-parent": {
-							"$id": "LEIevidenceDocument/data/relationships/direct-parent", 
+							"$id": "LegalEntityIdentifierDocument/data/relationships/direct-parent", 
 							"title": "Direct-parent", 
 							"type": "object",
 							"required": [
@@ -670,7 +670,7 @@
 							],
 							"properties": {
 								"links": {
-									"$id": "LEIevidenceDocument/data/relationships/direct-parent/links", 
+									"$id": "LegalEntityIdentifierDocument/data/relationships/direct-parent/links", 
 									"title": "Links", 
 									"type": "object",
 									"required": [
@@ -679,14 +679,14 @@
 									],
 									"properties": {
 										"relationship-record": {
-											"$id": "LEIevidenceDocument/data/relationships/direct-parent/links/relationship-record", 
+											"$id": "LegalEntityIdentifierDocument/data/relationships/direct-parent/links/relationship-record", 
 											"title": "Relationship-record", 
 											"type": "string",
 											"default": "",
 											"pattern": "^.*$"
 										},
 										"lei-record": {
-											"$id": "LEIevidenceDocument/data/relationships/direct-parent/links/lei-record", 
+											"$id": "LegalEntityIdentifierDocument/data/relationships/direct-parent/links/lei-record", 
 											"title": "Lei-record", 
 											"type": "string",
 											"default": "",
@@ -699,7 +699,7 @@
 						}
 ,
 						"ultimate-parent": {
-							"$id": "LEIevidenceDocument/data/relationships/ultimate-parent", 
+							"$id": "LegalEntityIdentifierDocument/data/relationships/ultimate-parent", 
 							"title": "Ultimate-parent", 
 							"type": "object",
 							"required": [
@@ -707,7 +707,7 @@
 							],
 							"properties": {
 								"links": {
-									"$id": "LEIevidenceDocument/data/relationships/ultimate-parent/links", 
+									"$id": "LegalEntityIdentifierDocument/data/relationships/ultimate-parent/links", 
 									"title": "Links", 
 									"type": "object",
 									"required": [
@@ -716,14 +716,14 @@
 									],
 									"properties": {
 										"relationship-record": {
-											"$id": "LEIevidenceDocument/data/relationships/ultimate-parent/links/relationship-record", 
+											"$id": "LegalEntityIdentifierDocument/data/relationships/ultimate-parent/links/relationship-record", 
 											"title": "Relationship-record", 
 											"type": "string",
 											"default": "",
 											"pattern": "^.*$"
 										},
 										"lei-record": {
-											"$id": "LEIevidenceDocument/data/relationships/ultimate-parent/links/lei-record", 
+											"$id": "LegalEntityIdentifierDocument/data/relationships/ultimate-parent/links/lei-record", 
 											"title": "Lei-record", 
 											"type": "string",
 											"default": "",
@@ -736,7 +736,7 @@
 						}
 ,
 						"direct-children": {
-							"$id": "LEIevidenceDocument/data/relationships/direct-children", 
+							"$id": "LegalEntityIdentifierDocument/data/relationships/direct-children", 
 							"title": "Direct-children", 
 							"type": "object",
 							"required": [
@@ -744,7 +744,7 @@
 							],
 							"properties": {
 								"links": {
-									"$id": "LEIevidenceDocument/data/relationships/direct-children/links", 
+									"$id": "LegalEntityIdentifierDocument/data/relationships/direct-children/links", 
 									"title": "Links", 
 									"type": "object",
 									"required": [
@@ -753,14 +753,14 @@
 									],
 									"properties": {
 										"relationship-records": {
-											"$id": "LEIevidenceDocument/data/relationships/direct-children/links/relationship-records", 
+											"$id": "LegalEntityIdentifierDocument/data/relationships/direct-children/links/relationship-records", 
 											"title": "Relationship-records", 
 											"type": "string",
 											"default": "",
 											"pattern": "^.*$"
 										},
 										"related": {
-											"$id": "LEIevidenceDocument/data/relationships/direct-children/links/related", 
+											"$id": "LegalEntityIdentifierDocument/data/relationships/direct-children/links/related", 
 											"title": "Related", 
 											"type": "string",
 											"default": "",
@@ -773,7 +773,7 @@
 						}
 ,
 						"isins": {
-							"$id": "LEIevidenceDocument/data/relationships/isins", 
+							"$id": "LegalEntityIdentifierDocument/data/relationships/isins", 
 							"title": "Isins", 
 							"type": "object",
 							"required": [
@@ -781,7 +781,7 @@
 							],
 							"properties": {
 								"links": {
-									"$id": "LEIevidenceDocument/data/relationships/isins/links", 
+									"$id": "LegalEntityIdentifierDocument/data/relationships/isins/links", 
 									"title": "Links", 
 									"type": "object",
 									"required": [
@@ -789,7 +789,7 @@
 									],
 									"properties": {
 										"related": {
-											"$id": "LEIevidenceDocument/data/relationships/isins/links/related", 
+											"$id": "LegalEntityIdentifierDocument/data/relationships/isins/links/related", 
 											"title": "Related", 
 											"type": "string",
 											"default": "",
@@ -805,7 +805,7 @@
 				}
 ,
 				"links": {
-					"$id": "LEIevidenceDocument/data/links", 
+					"$id": "LegalEntityIdentifierDocument/data/links", 
 					"title": "Links", 
 					"type": "object",
 					"required": [
@@ -813,7 +813,7 @@
 					],
 					"properties": {
 						"self": {
-							"$id": "LEIevidenceDocument/data/links/self", 
+							"$id": "LegalEntityIdentifierDocument/data/links/self", 
 							"title": "Self", 
 							"type": "string",
 							"default": "",
