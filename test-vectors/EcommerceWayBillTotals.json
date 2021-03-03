@@ -11,7 +11,7 @@
       "weightUnit": "lb",
       "rateCharge": 0.016885992665390058,
       "totalRateCharge": {
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 9767,
         "priceCurrency": "IQD"
       }
@@ -27,7 +27,7 @@
       "weightUnit": "lb",
       "rateCharge": 0.014894183821217813,
       "totalRateCharge": {
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 8940,
         "priceCurrency": "CRC"
       }
@@ -43,7 +43,7 @@
       "weightUnit": "kg",
       "rateCharge": 0.00956372386440036,
       "totalRateCharge": {
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 1808,
         "priceCurrency": "AED"
       }
@@ -60,7 +60,7 @@
       "chargeableWeight": 578408.4,
       "rateCharge": 0.016885992665390058,
       "totalRateCharge": {
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 9767,
         "priceCurrency": "IQD"
       },

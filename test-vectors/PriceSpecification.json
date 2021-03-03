@@ -1,10 +1,52 @@
 {
   "good": [
     {
-      "@context": ["https://w3id.org/traceability/v1"],
+      "@context": [
+        "https://w3id.org/traceability/v1"
+      ],
       "type": "PriceSpecification",
-      "price": "150000.00",
-      "priceCurrency": "USD"
+      "price": 5699,
+      "priceCurrency": "RUB"
+    },
+    {
+      "@context": [
+        "https://w3id.org/traceability/v1"
+      ],
+      "type": "PriceSpecification",
+      "price": 7010,
+      "priceCurrency": "ILS"
+    },
+    {
+      "@context": [
+        "https://w3id.org/traceability/v1"
+      ],
+      "type": "PriceSpecification",
+      "price": 2375,
+      "priceCurrency": "CHF"
+    }
+  ],
+  "bad": [
+    {
+      "price": 5699,
+      "panel": "transmit",
+      "bandwidth": "reboot"
+    },
+    {
+      "type": "PriceSpecification",
+      "price": 7010,
+      "circuit": "back up",
+      "alarm": "parse",
+      "pixel": "calculate"
+    },
+    {
+      "@context": [
+        "https://w3id.org/traceability/v1"
+      ],
+      "type": "PriceSpecification",
+      "price": 2375,
+      "array": "reboot",
+      "microchip": "override",
+      "sensor": "navigate"
     }
   ]
 }

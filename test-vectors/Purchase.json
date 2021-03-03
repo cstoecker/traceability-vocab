@@ -8,52 +8,20 @@
         "Purchase"
       ],
       "customer": {
-        "type": "Person",
-        "firstName": "Jules",
-        "lastName": "Quitzon",
-        "email": "Winston.Daugherty62@example.com",
-        "phoneNumber": "555-492-3446",
-        "worksFor": {
-          "type": "Organization",
-          "name": "Pouros - Botsford",
-          "description": "Persevering radical info-mediaries",
-          "address": {
-            "type": "PostalAddress",
-            "streetAddress": "49947 Jon Fords",
-            "addressLocality": "Clovisstad",
-            "addressRegion": "Michigan",
-            "postalCode": "29074",
-            "addressCountry": "Sri Lanka"
-          },
-          "email": "Shirley.Haley@example.net",
-          "phoneNumber": "555-954-6719",
-          "faxNumber": "555-126-4047"
-        },
-        "jobTitle": "National Mobility Analyst"
-      }
-    },
-    {
-      "@context": [
-        "https://w3id.org/traceability/v1"
-      ],
-      "type": [
-        "Purchase"
-      ],
-      "customer": {
         "type": "Organization",
-        "name": "Walker, Johnston and Champlin",
-        "description": "Multi-tiered real-time contingency",
+        "name": "Toy LLC",
+        "description": "Customer-focused dynamic hub",
         "address": {
           "type": "PostalAddress",
-          "streetAddress": "947 Kennedi Causeway",
-          "addressLocality": "North Lyla",
-          "addressRegion": "Idaho",
-          "postalCode": "96085-1347",
-          "addressCountry": "Myanmar"
+          "streetAddress": "231 Morissette Fields",
+          "addressLocality": "Sanfordton",
+          "addressRegion": "Tennessee",
+          "postalCode": "79470-6530",
+          "addressCountry": "Nigeria"
         },
-        "email": "Kristofer92@example.org",
-        "phoneNumber": "555-758-3676",
-        "faxNumber": "555-949-9665"
+        "email": "Leon94@example.net",
+        "phoneNumber": "555-309-7929",
+        "faxNumber": "555-995-6623"
       }
     },
     {
@@ -65,66 +33,103 @@
       ],
       "customer": {
         "type": "Person",
-        "firstName": "Westley",
-        "lastName": "Medhurst",
-        "email": "Godfrey36@example.net",
-        "phoneNumber": "555-905-4140",
+        "firstName": "Cordie",
+        "lastName": "Marquardt",
+        "email": "Autumn60@example.com",
+        "phoneNumber": "555-357-8671",
         "worksFor": {
           "type": "Organization",
-          "name": "Mayert - Boyer",
-          "description": "Enhanced composite matrix",
+          "name": "Baumbach - Kilback",
+          "description": "Fundamental high-level superstructure",
           "address": {
             "type": "PostalAddress",
-            "streetAddress": "5212 Edmond Common",
-            "addressLocality": "Hickletown",
-            "addressRegion": "Minnesota",
-            "postalCode": "48702",
-            "addressCountry": "Germany"
+            "streetAddress": "98539 Mack Ways",
+            "addressLocality": "East Seanville",
+            "addressRegion": "Mississippi",
+            "postalCode": "29343-3521",
+            "addressCountry": "France"
           },
-          "email": "Andreanne_Jacobson@example.net",
-          "phoneNumber": "555-492-3574",
-          "faxNumber": "555-867-2878"
+          "email": "Adelle43@example.net",
+          "phoneNumber": "555-181-8217",
+          "faxNumber": "555-357-9559"
         },
-        "jobTitle": "Dynamic Solutions Assistant"
+        "jobTitle": "Dynamic Brand Administrator"
+      }
+    },
+    {
+      "@context": [
+        "https://w3id.org/traceability/v1"
+      ],
+      "type": [
+        "Purchase"
+      ],
+      "customer": {
+        "type": "Person",
+        "firstName": "Kip",
+        "lastName": "Reynolds",
+        "email": "Joanne41@example.net",
+        "phoneNumber": "555-266-3693",
+        "worksFor": {
+          "type": "Organization",
+          "name": "Ankunding - Rice",
+          "description": "Centralized high-level throughput",
+          "address": {
+            "type": "PostalAddress",
+            "streetAddress": "84520 Glover Roads",
+            "addressLocality": "Miltonburgh",
+            "addressRegion": "Connecticut",
+            "postalCode": "01156",
+            "addressCountry": "Canada"
+          },
+          "email": "Chadrick.Stokes45@example.net",
+          "phoneNumber": "555-950-8707",
+          "faxNumber": "555-996-9002"
+        },
+        "jobTitle": "District Response Administrator"
       }
     }
   ],
   "bad": [
     {
-      "array": "calculate"
+      "sensor": "input"
     },
     {
-      "firewall": "calculate",
-      "protocol": "compress",
-      "circuit": "override",
-      "sensor": "reboot"
+      "@context": [
+        "https://w3id.org/traceability/v1"
+      ],
+      "matrix": "quantify",
+      "circuit": "index"
     },
     {
+      "type": [
+        "Purchase"
+      ],
       "customer": {
         "type": "Person",
-        "firstName": "Westley",
-        "lastName": "Medhurst",
-        "email": "Godfrey36@example.net",
-        "phoneNumber": "555-905-4140",
+        "firstName": "Kip",
+        "lastName": "Reynolds",
+        "email": "Joanne41@example.net",
+        "phoneNumber": "555-266-3693",
         "worksFor": {
           "type": "Organization",
-          "name": "Mayert - Boyer",
-          "description": "Enhanced composite matrix",
+          "name": "Ankunding - Rice",
+          "description": "Centralized high-level throughput",
           "address": {
             "type": "PostalAddress",
-            "streetAddress": "5212 Edmond Common",
-            "addressLocality": "Hickletown",
-            "addressRegion": "Minnesota",
-            "postalCode": "48702",
-            "addressCountry": "Germany"
+            "streetAddress": "84520 Glover Roads",
+            "addressLocality": "Miltonburgh",
+            "addressRegion": "Connecticut",
+            "postalCode": "01156",
+            "addressCountry": "Canada"
           },
-          "email": "Andreanne_Jacobson@example.net",
-          "phoneNumber": "555-492-3574",
-          "faxNumber": "555-867-2878"
+          "email": "Chadrick.Stokes45@example.net",
+          "phoneNumber": "555-950-8707",
+          "faxNumber": "555-996-9002"
         },
-        "jobTitle": "Dynamic Solutions Assistant"
+        "jobTitle": "District Response Administrator"
       },
-      "monitor": "back up"
+      "protocol": "calculate",
+      "bandwidth": "copy"
     }
   ]
 }

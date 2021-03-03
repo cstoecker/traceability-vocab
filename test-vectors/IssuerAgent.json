@@ -28,7 +28,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 1687,
         "priceCurrency": "KMF"
       },
@@ -36,7 +36,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 9402,
         "priceCurrency": "TOP"
       },
@@ -45,7 +45,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 3084,
         "priceCurrency": "GEL"
       },
@@ -54,7 +54,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 3824,
         "priceCurrency": "LBP"
       }
@@ -87,7 +87,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 5524,
         "priceCurrency": "GBP"
       },
@@ -95,7 +95,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 2252,
         "priceCurrency": "DZD"
       },
@@ -104,7 +104,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 1283,
         "priceCurrency": "COP"
       },
@@ -113,7 +113,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 8113,
         "priceCurrency": "PYG"
       }
@@ -146,7 +146,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 7361,
         "priceCurrency": "BHD"
       },
@@ -154,7 +154,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 7360,
         "priceCurrency": "TZS"
       },
@@ -163,7 +163,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 3948,
         "priceCurrency": "XAF"
       },
@@ -172,7 +172,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 7623,
         "priceCurrency": "BYN"
       }
@@ -204,7 +204,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 1687,
         "priceCurrency": "KMF"
       },
@@ -212,7 +212,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 9402,
         "priceCurrency": "TOP"
       },
@@ -221,7 +221,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 3824,
         "priceCurrency": "LBP"
       },
@@ -243,7 +243,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 7360,
         "priceCurrency": "TZS"
       },
@@ -251,7 +251,7 @@
         "@context": [
           "https://w3id.org/traceability/v1"
         ],
-        "type": "chargeSpecification",
+        "type": "PriceSpecification",
         "price": 3948,
         "priceCurrency": "XAF"
       },

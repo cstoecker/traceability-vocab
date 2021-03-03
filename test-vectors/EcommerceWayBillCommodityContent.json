@@ -18,7 +18,7 @@
             "weightUnit": "lb",
             "rateCharge": 0.0052389989364689145,
             "totalRateCharge": {
-              "type": "chargeSpecification",
+              "type": "PriceSpecification",
               "price": 4396,
               "priceCurrency": "MGA"
             }
@@ -36,7 +36,7 @@
             "weightUnit": "kg",
             "rateCharge": 0.02610773777283655,
             "totalRateCharge": {
-              "type": "chargeSpecification",
+              "type": "PriceSpecification",
               "price": 9891,
               "priceCurrency": "CZK"
             }
@@ -51,7 +51,7 @@
         "weightUnit": "lb",
         "rateCharge": 0.020746221682692,
         "totalRateCharge": {
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 4845,
           "priceCurrency": "PYG"
         }
@@ -75,7 +75,7 @@
             "weightUnit": "kg",
             "rateCharge": 0.011894597055019059,
             "totalRateCharge": {
-              "type": "chargeSpecification",
+              "type": "PriceSpecification",
               "price": 8630,
               "priceCurrency": "LKR"
             }
@@ -90,7 +90,7 @@
         "weightUnit": "kg",
         "rateCharge": 0.032779858799098095,
         "totalRateCharge": {
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 9774,
           "priceCurrency": "GBP"
         }
@@ -114,7 +114,7 @@
             "weightUnit": "kg",
             "rateCharge": 0.026893383837173913,
             "totalRateCharge": {
-              "type": "chargeSpecification",
+              "type": "PriceSpecification",
               "price": 3031,
               "priceCurrency": "KRW"
             }
@@ -132,7 +132,7 @@
             "weightUnit": "lb",
             "rateCharge": 0.011784273196883582,
             "totalRateCharge": {
-              "type": "chargeSpecification",
+              "type": "PriceSpecification",
               "price": 4565,
               "priceCurrency": "SAR"
             }
@@ -147,7 +147,7 @@
         "weightUnit": "kg",
         "rateCharge": 0.019479928263046786,
         "totalRateCharge": {
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 8280,
           "priceCurrency": "UYU"
         }
@@ -168,7 +168,7 @@
         "weightUnit": "lb",
         "rateCharge": 0.020746221682692,
         "totalRateCharge": {
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 4845,
           "priceCurrency": "PYG"
         }
@@ -195,7 +195,7 @@
             "weightUnit": "kg",
             "rateCharge": 0.011894597055019059,
             "totalRateCharge": {
-              "type": "chargeSpecification",
+              "type": "PriceSpecification",
               "price": 8630,
               "priceCurrency": "LKR"
             }
@@ -210,7 +210,7 @@
         "weightUnit": "kg",
         "rateCharge": 0.032779858799098095,
         "totalRateCharge": {
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 9774,
           "priceCurrency": "GBP"
         }

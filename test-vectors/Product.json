@@ -7,33 +7,33 @@
       "type": "Product",
       "manufacturer": {
         "type": "Organization",
-        "name": "Denesik, Douglas and Kovacek",
-        "description": "Horizontal hybrid hierarchy",
+        "name": "Bechtelar - Aufderhar",
+        "description": "Switchable radical emulation",
         "address": {
           "type": "PostalAddress",
-          "streetAddress": "1418 Guadalupe Coves",
-          "addressLocality": "Hesterville",
-          "addressRegion": "Wisconsin",
-          "postalCode": "85699-0661",
-          "addressCountry": "Djibouti"
+          "streetAddress": "57745 Rodriguez Haven",
+          "addressLocality": "Oberbrunnershire",
+          "addressRegion": "South Carolina",
+          "postalCode": "47919",
+          "addressCountry": "Zambia"
         },
-        "email": "Joshua_Gislason@example.net",
-        "phoneNumber": "555-142-9737",
-        "faxNumber": "555-689-4021"
+        "email": "Christophe.Lang@example.net",
+        "phoneNumber": "555-685-8322",
+        "faxNumber": "555-686-9848"
       },
-      "name": "Small Soft Sausages",
-      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "name": "Practical Granite Tuna",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
       "sizeOrAmount": {
         "type": "QuantitativeValue",
         "unitCode": "hg/ha",
-        "value": "4225"
+        "value": "1910"
       },
       "weight": {
         "type": "QuantitativeValue",
         "unitCode": "hg/ha",
-        "value": "3222"
+        "value": "9376"
       },
-      "sku": "989648237034"
+      "sku": "568777110908"
     },
     {
       "@context": [
@@ -41,34 +41,42 @@
       ],
       "type": "Product",
       "manufacturer": {
-        "type": "Organization",
-        "name": "Cormier - Willms",
-        "description": "Re-contextualized interactive analyzer",
-        "address": {
-          "type": "PostalAddress",
-          "streetAddress": "5031 Hilma Walk",
-          "addressLocality": "Lysanneville",
-          "addressRegion": "New Hampshire",
-          "postalCode": "34516",
-          "addressCountry": "Guernsey"
+        "type": "Person",
+        "firstName": "Kathlyn",
+        "lastName": "Stracke",
+        "email": "Ike5@example.com",
+        "phoneNumber": "555-126-9101",
+        "worksFor": {
+          "type": "Organization",
+          "name": "Tremblay Group",
+          "description": "Organized zero tolerance monitoring",
+          "address": {
+            "type": "PostalAddress",
+            "streetAddress": "086 Kenyon Trafficway",
+            "addressLocality": "Andresborough",
+            "addressRegion": "Montana",
+            "postalCode": "06906-4088",
+            "addressCountry": "Guadeloupe"
+          },
+          "email": "Frances.Boyer18@example.net",
+          "phoneNumber": "555-996-9469",
+          "faxNumber": "555-175-7115"
         },
-        "email": "Ayden_Stokes@example.net",
-        "phoneNumber": "555-798-1046",
-        "faxNumber": "555-809-6247"
+        "jobTitle": "National Division Executive"
       },
-      "name": "Incredible Granite Chips",
-      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "name": "Small Plastic Gloves",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
       "sizeOrAmount": {
         "type": "QuantitativeValue",
         "unitCode": "hg/ha",
-        "value": "5686"
+        "value": "8659"
       },
       "weight": {
         "type": "QuantitativeValue",
         "unitCode": "hg/ha",
-        "value": "603"
+        "value": "3575"
       },
-      "sku": "603542553002"
+      "sku": "202836162938"
     },
     {
       "@context": [
@@ -76,74 +84,71 @@
       ],
       "type": "Product",
       "manufacturer": {
-        "type": "Organization",
-        "name": "Hessel and Sons",
-        "description": "Stand-alone full-range instruction set",
-        "address": {
-          "type": "PostalAddress",
-          "streetAddress": "10958 Muller Mill",
-          "addressLocality": "North Eulaliaview",
-          "addressRegion": "Colorado",
-          "postalCode": "88303-3428",
-          "addressCountry": "Qatar"
+        "type": "Person",
+        "firstName": "Nikolas",
+        "lastName": "Satterfield",
+        "email": "Arlo96@example.net",
+        "phoneNumber": "555-790-1326",
+        "worksFor": {
+          "type": "Organization",
+          "name": "Schmitt - Goyette",
+          "description": "Multi-channelled background strategy",
+          "address": {
+            "type": "PostalAddress",
+            "streetAddress": "342 Bins Junction",
+            "addressLocality": "West Tyreek",
+            "addressRegion": "Nevada",
+            "postalCode": "35052-1820",
+            "addressCountry": "Netherlands"
+          },
+          "email": "Ethan_Brown@example.com",
+          "phoneNumber": "555-788-4094",
+          "faxNumber": "555-621-8250"
         },
-        "email": "Chasity.Dickinson90@example.net",
-        "phoneNumber": "555-965-2741",
-        "faxNumber": "555-345-6388"
+        "jobTitle": "Corporate Program Associate"
       },
-      "name": "Fantastic Steel Shoes",
-      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "name": "Handcrafted Frozen Gloves",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
       "sizeOrAmount": {
         "type": "QuantitativeValue",
         "unitCode": "hg/ha",
-        "value": "4650"
+        "value": "4475"
       },
       "weight": {
         "type": "QuantitativeValue",
         "unitCode": "hg/ha",
-        "value": "3854"
+        "value": "3653"
       },
-      "sku": "944244659435"
+      "sku": "772185841"
     }
   ],
   "bad": [
     {
-      "manufacturer": {
-        "type": "Organization",
-        "name": "Denesik, Douglas and Kovacek",
-        "description": "Horizontal hybrid hierarchy",
-        "address": {
-          "type": "PostalAddress",
-          "streetAddress": "1418 Guadalupe Coves",
-          "addressLocality": "Hesterville",
-          "addressRegion": "Wisconsin",
-          "postalCode": "85699-0661",
-          "addressCountry": "Djibouti"
-        },
-        "email": "Joshua_Gislason@example.net",
-        "phoneNumber": "555-142-9737",
-        "faxNumber": "555-689-4021"
-      },
-      "transmitter": "calculate",
-      "matrix": "generate",
-      "protocol": "back up"
-    },
-    {
-      "bandwidth": "synthesize",
-      "panel": "reboot",
-      "transmitter": "quantify",
-      "matrix": "calculate"
-    },
-    {
       "type": "Product",
-      "name": "Fantastic Steel Shoes",
+      "name": "Practical Granite Tuna",
       "weight": {
         "type": "QuantitativeValue",
         "unitCode": "hg/ha",
-        "value": "3854"
+        "value": "9376"
       },
-      "bandwidth": "transmit",
-      "port": "back up"
+      "sku": "568777110908",
+      "array": "input",
+      "driver": "transmit",
+      "hard drive": "calculate"
+    },
+    {
+      "weight": {
+        "type": "QuantitativeValue",
+        "unitCode": "hg/ha",
+        "value": "3575"
+      },
+      "transmitter": "index",
+      "firewall": "transmit"
+    },
+    {
+      "name": "Handcrafted Frozen Gloves",
+      "sensor": "program",
+      "port": "connect"
     }
   ]
 }

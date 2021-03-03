@@ -6,7 +6,7 @@
       ],
       "type": "QuantitativeValue",
       "unitCode": "hg/ha",
-      "value": "7764"
+      "value": "5223"
     },
     {
       "@context": [
@@ -27,7 +27,8 @@
   ],
   "bad": [
     {
-      "unitCode": "hg/ha",
+      "array": "back up",
+      "feed": "back up",
       "port": "program"
     },
     {

@@ -31,7 +31,7 @@
         "telephone": "555-905-1418",
         "email": "Laron_West94@example.com"
       },
-      "paymentDueDate": "7-2-2021",
+      "paymentDueDate": "7-3-2021",
       "totalPaymentDue": 0,
       "totalPaymentDueCurrency": "BWP",
       "paymentStatus": "PaymentComplete",
@@ -79,7 +79,7 @@
             "email": "Laron_West94@example.com"
           },
           "paymentMethod": "http://purl.org/goodrelations/v1#ByBankTransferInAdvance",
-          "paymentDueDate": "7-2-2021",
+          "paymentDueDate": "7-3-2021",
           "orderedItem": [
             {
               "type": "OrderedItem",
@@ -353,7 +353,7 @@
             "email": "Laron_West94@example.com"
           },
           "paymentMethod": "http://purl.org/goodrelations/v1#ByBankTransferInAdvance",
-          "paymentDueDate": "7-2-2021",
+          "paymentDueDate": "7-3-2021",
           "orderedItem": [
             {
               "type": "OrderedItem",

@@ -83,7 +83,7 @@
           "@context": [
             "https://w3id.org/traceability/v1"
           ],
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 3040,
           "priceCurrency": "CNY"
         },
@@ -91,7 +91,7 @@
           "@context": [
             "https://w3id.org/traceability/v1"
           ],
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 1846,
           "priceCurrency": "VND"
         },
@@ -100,7 +100,7 @@
           "@context": [
             "https://w3id.org/traceability/v1"
           ],
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 915,
           "priceCurrency": "ZAR"
         },
@@ -109,7 +109,7 @@
           "@context": [
             "https://w3id.org/traceability/v1"
           ],
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 3161,
           "priceCurrency": "UGX"
         }
@@ -257,7 +257,7 @@
               "weightUnit": "lb",
               "rateCharge": 0.0033344820230066133,
               "totalRateCharge": {
-                "type": "chargeSpecification",
+                "type": "PriceSpecification",
                 "price": 1524,
                 "priceCurrency": "UZS"
               }
@@ -275,7 +275,7 @@
               "weightUnit": "kg",
               "rateCharge": 0.27987880704953466,
               "totalRateCharge": {
-                "type": "chargeSpecification",
+                "type": "PriceSpecification",
                 "price": 9025,
                 "priceCurrency": "RON"
               }
@@ -293,7 +293,7 @@
               "weightUnit": "kg",
               "rateCharge": 0.028592799582257224,
               "totalRateCharge": {
-                "type": "chargeSpecification",
+                "type": "PriceSpecification",
                 "price": 9117,
                 "priceCurrency": "NAD"
               }
@@ -308,7 +308,7 @@
           "weightUnit": "lb",
           "rateCharge": 0.001678658915628495,
           "totalRateCharge": {
-            "type": "chargeSpecification",
+            "type": "PriceSpecification",
             "price": 1115,
             "priceCurrency": "UYU"
           }
@@ -354,7 +354,7 @@
         "https://w3id.org/traceability/v1"
       ],
       "type": "EcommerceWayBillRegistrationEvidenceDocument",
-      "issuanceDate": "11-6-2021",
+      "issuanceDate": "11-0-2021",
       "waybillNumber": "ACMEWayBill#498",
       "waybillType": "Single",
       "issuer": {
@@ -432,7 +432,7 @@
           "@context": [
             "https://w3id.org/traceability/v1"
           ],
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 280,
           "priceCurrency": "MZN"
         },
@@ -440,7 +440,7 @@
           "@context": [
             "https://w3id.org/traceability/v1"
           ],
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 2265,
           "priceCurrency": "CDF"
         },
@@ -449,7 +449,7 @@
           "@context": [
             "https://w3id.org/traceability/v1"
           ],
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 2039,
           "priceCurrency": "ZMK"
         },
@@ -458,7 +458,7 @@
           "@context": [
             "https://w3id.org/traceability/v1"
           ],
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 4105,
           "priceCurrency": "HUF"
         }
@@ -492,7 +492,7 @@
             "faxNumber": "555-650-8166"
           },
           "vesselNumber": "ACMECarrierVessel#105",
-          "arrivalDate": "2-1-2021",
+          "arrivalDate": "2-2-2021",
           "stopType": "Departure"
         },
         {
@@ -554,7 +554,7 @@
             "faxNumber": "555-801-5468"
           },
           "vesselNumber": "ACMECarrierVessel#859",
-          "arrivalDate": "2-1-2021",
+          "arrivalDate": "2-2-2021",
           "stopType": "Destination"
         }
       ],
@@ -575,7 +575,7 @@
               "weightUnit": "kg",
               "rateCharge": 0.009768172744977885,
               "totalRateCharge": {
-                "type": "chargeSpecification",
+                "type": "PriceSpecification",
                 "price": 7245,
                 "priceCurrency": "BDT"
               }
@@ -593,7 +593,7 @@
               "weightUnit": "kg",
               "rateCharge": 0.002416374005549469,
               "totalRateCharge": {
-                "type": "chargeSpecification",
+                "type": "PriceSpecification",
                 "price": 2124,
                 "priceCurrency": "COP"
               }
@@ -611,7 +611,7 @@
               "weightUnit": "kg",
               "rateCharge": 0.010013953216932733,
               "totalRateCharge": {
-                "type": "chargeSpecification",
+                "type": "PriceSpecification",
                 "price": 4530,
                 "priceCurrency": "KES"
               }
@@ -626,7 +626,7 @@
           "weightUnit": "kg",
           "rateCharge": 0.014202218682800851,
           "totalRateCharge": {
-            "type": "chargeSpecification",
+            "type": "PriceSpecification",
             "price": 7335,
             "priceCurrency": "SDG"
           }
@@ -672,7 +672,7 @@
         "https://w3id.org/traceability/v1"
       ],
       "type": "EcommerceWayBillRegistrationEvidenceDocument",
-      "issuanceDate": "9-0-2021",
+      "issuanceDate": "9-1-2021",
       "waybillNumber": "ACMEWayBill#452",
       "waybillType": "Single",
       "issuer": {
@@ -750,7 +750,7 @@
           "@context": [
             "https://w3id.org/traceability/v1"
           ],
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 1919,
           "priceCurrency": "MAD"
         },
@@ -758,7 +758,7 @@
           "@context": [
             "https://w3id.org/traceability/v1"
           ],
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 6158,
           "priceCurrency": "NPR"
         },
@@ -767,7 +767,7 @@
           "@context": [
             "https://w3id.org/traceability/v1"
           ],
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 5287,
           "priceCurrency": "NGN"
         },
@@ -776,7 +776,7 @@
           "@context": [
             "https://w3id.org/traceability/v1"
           ],
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 5479,
           "priceCurrency": "XOF"
         }
@@ -831,7 +831,7 @@
               "weightUnit": "lb",
               "rateCharge": 0.03543663016664725,
               "totalRateCharge": {
-                "type": "chargeSpecification",
+                "type": "PriceSpecification",
                 "price": 9764,
                 "priceCurrency": "EUR"
               }
@@ -849,7 +849,7 @@
               "weightUnit": "lb",
               "rateCharge": 0.010412748399889196,
               "totalRateCharge": {
-                "type": "chargeSpecification",
+                "type": "PriceSpecification",
                 "price": 7142,
                 "priceCurrency": "PAB"
               }
@@ -867,7 +867,7 @@
               "weightUnit": "lb",
               "rateCharge": 0.012842550725097955,
               "totalRateCharge": {
-                "type": "chargeSpecification",
+                "type": "PriceSpecification",
                 "price": 5823,
                 "priceCurrency": "YER"
               }
@@ -882,7 +882,7 @@
           "weightUnit": "lb",
           "rateCharge": 0.010960856109023252,
           "totalRateCharge": {
-            "type": "chargeSpecification",
+            "type": "PriceSpecification",
             "price": 6809,
             "priceCurrency": "GTQ"
           }
@@ -1126,7 +1126,7 @@
               "weightUnit": "lb",
               "rateCharge": 0.0033344820230066133,
               "totalRateCharge": {
-                "type": "chargeSpecification",
+                "type": "PriceSpecification",
                 "price": 1524,
                 "priceCurrency": "UZS"
               }
@@ -1144,7 +1144,7 @@
               "weightUnit": "kg",
               "rateCharge": 0.27987880704953466,
               "totalRateCharge": {
-                "type": "chargeSpecification",
+                "type": "PriceSpecification",
                 "price": 9025,
                 "priceCurrency": "RON"
               }
@@ -1162,7 +1162,7 @@
               "weightUnit": "kg",
               "rateCharge": 0.028592799582257224,
               "totalRateCharge": {
-                "type": "chargeSpecification",
+                "type": "PriceSpecification",
                 "price": 9117,
                 "priceCurrency": "NAD"
               }
@@ -1177,7 +1177,7 @@
           "weightUnit": "lb",
           "rateCharge": 0.001678658915628495,
           "totalRateCharge": {
-            "type": "chargeSpecification",
+            "type": "PriceSpecification",
             "price": 1115,
             "priceCurrency": "UYU"
           }
@@ -1286,7 +1286,7 @@
         "https://w3id.org/traceability/v1"
       ],
       "type": "EcommerceWayBillRegistrationEvidenceDocument",
-      "issuanceDate": "9-0-2021",
+      "issuanceDate": "9-1-2021",
       "waybillNumber": "ACMEWayBill#452",
       "waybillType": "Single",
       "issuer": {
@@ -1364,7 +1364,7 @@
           "@context": [
             "https://w3id.org/traceability/v1"
           ],
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 1919,
           "priceCurrency": "MAD"
         },
@@ -1372,7 +1372,7 @@
           "@context": [
             "https://w3id.org/traceability/v1"
           ],
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 6158,
           "priceCurrency": "NPR"
         },
@@ -1381,7 +1381,7 @@
           "@context": [
             "https://w3id.org/traceability/v1"
           ],
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 5287,
           "priceCurrency": "NGN"
         },
@@ -1390,7 +1390,7 @@
           "@context": [
             "https://w3id.org/traceability/v1"
           ],
-          "type": "chargeSpecification",
+          "type": "PriceSpecification",
           "price": 5479,
           "priceCurrency": "XOF"
         }
@@ -1411,7 +1411,7 @@
               "weightUnit": "lb",
               "rateCharge": 0.03543663016664725,
               "totalRateCharge": {
-                "type": "chargeSpecification",
+                "type": "PriceSpecification",
                 "price": 9764,
                 "priceCurrency": "EUR"
               }
@@ -1429,7 +1429,7 @@
               "weightUnit": "lb",
               "rateCharge": 0.010412748399889196,
               "totalRateCharge": {
-                "type": "chargeSpecification",
+                "type": "PriceSpecification",
                 "price": 7142,
                 "priceCurrency": "PAB"
               }
@@ -1447,7 +1447,7 @@
               "weightUnit": "lb",
               "rateCharge": 0.012842550725097955,
               "totalRateCharge": {
-                "type": "chargeSpecification",
+                "type": "PriceSpecification",
                 "price": 5823,
                 "priceCurrency": "YER"
               }
@@ -1462,7 +1462,7 @@
           "weightUnit": "lb",
           "rateCharge": 0.010960856109023252,
           "totalRateCharge": {
-            "type": "chargeSpecification",
+            "type": "PriceSpecification",
             "price": 6809,
             "priceCurrency": "GTQ"
           }

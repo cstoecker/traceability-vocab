@@ -5,24 +5,24 @@
         "https://w3id.org/traceability/v1"
       ],
       "type": "Qualification",
-      "qualificationCategory": "Corporate Security Associate",
-      "qualificationValue": "Manager"
+      "qualificationCategory": "Corporate Accountability Facilitator",
+      "qualificationValue": "Producer"
     },
     {
       "@context": [
         "https://w3id.org/traceability/v1"
       ],
       "type": "Qualification",
-      "qualificationCategory": "Forward Quality Planner",
-      "qualificationValue": "Consultant"
+      "qualificationCategory": "Dynamic Implementation Consultant",
+      "qualificationValue": "Coordinator"
     },
     {
       "@context": [
         "https://w3id.org/traceability/v1"
       ],
       "type": "Qualification",
-      "qualificationCategory": "Regional Infrastructure Consultant",
-      "qualificationValue": "Director"
+      "qualificationCategory": "District Branding Planner",
+      "qualificationValue": "Designer"
     }
   ],
   "bad": [
@@ -30,27 +30,24 @@
       "@context": [
         "https://w3id.org/traceability/v1"
       ],
-      "type": "Qualification",
-      "qualificationCategory": "Corporate Security Associate",
-      "array": "transmit",
-      "bus": "copy"
+      "qualificationCategory": "Corporate Accountability Facilitator",
+      "microchip": "quantify",
+      "hard drive": "hack",
+      "bandwidth": "bypass"
     },
     {
       "@context": [
         "https://w3id.org/traceability/v1"
       ],
-      "qualificationValue": "Consultant",
-      "bus": "synthesize",
-      "application": "quantify",
-      "port": "parse"
+      "type": "Qualification",
+      "transmitter": "synthesize",
+      "hard drive": "input"
     },
     {
-      "type": "Qualification",
-      "qualificationCategory": "Regional Infrastructure Consultant",
-      "qualificationValue": "Director",
-      "port": "parse",
-      "firewall": "parse",
-      "sensor": "navigate"
+      "interface": "generate",
+      "application": "navigate",
+      "microchip": "hack",
+      "monitor": "compress"
     }
   ]
 }
