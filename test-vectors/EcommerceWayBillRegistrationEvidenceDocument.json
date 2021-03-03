@@ -143,7 +143,7 @@
             "faxNumber": "555-543-2106"
           },
           "vesselNumber": "ACMECarrierVessel#918",
-          "arrivalDate": "2-2-2021",
+          "arrivalDate": "2-3-2021",
           "stopType": "Departure"
         },
         {
@@ -174,7 +174,7 @@
             "faxNumber": "555-304-3208"
           },
           "vesselNumber": "ACMECarrierVessel#413",
-          "arrivalDate": "2-2-2021",
+          "arrivalDate": "2-3-2021",
           "stopType": "Destination"
         },
         {
@@ -236,7 +236,7 @@
             "faxNumber": "555-450-5630"
           },
           "vesselNumber": "ACMECarrierVessel#122",
-          "arrivalDate": "2-2-2021",
+          "arrivalDate": "2-3-2021",
           "stopType": "Destination"
         }
       ],
@@ -810,7 +810,7 @@
             "faxNumber": "555-193-6701"
           },
           "vesselNumber": "ACMECarrierVessel#993",
-          "arrivalDate": "2-2-2021",
+          "arrivalDate": "2-3-2021",
           "stopType": "Stopover"
         }
       ],
@@ -1012,7 +1012,7 @@
             "faxNumber": "555-543-2106"
           },
           "vesselNumber": "ACMECarrierVessel#918",
-          "arrivalDate": "2-2-2021",
+          "arrivalDate": "2-3-2021",
           "stopType": "Departure"
         },
         {
@@ -1043,7 +1043,7 @@
             "faxNumber": "555-304-3208"
           },
           "vesselNumber": "ACMECarrierVessel#413",
-          "arrivalDate": "2-2-2021",
+          "arrivalDate": "2-3-2021",
           "stopType": "Destination"
         },
         {
@@ -1105,7 +1105,7 @@
             "faxNumber": "555-450-5630"
           },
           "vesselNumber": "ACMECarrierVessel#122",
-          "arrivalDate": "2-2-2021",
+          "arrivalDate": "2-3-2021",
           "stopType": "Destination"
         }
       ],

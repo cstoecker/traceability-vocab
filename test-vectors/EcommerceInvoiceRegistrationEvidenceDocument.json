@@ -49,7 +49,7 @@
           "description": "New Order For Verona Wolff",
           "url": "https://hazel.info?queryid=Order#724",
           "orderNumber": "Order#724",
-          "orderDate": "2-2-2021",
+          "orderDate": "2-3-2021",
           "orderStatus": "OrderDelivered",
           "seller": {
             "type": "Organization",
@@ -142,7 +142,7 @@
           "description": "New Order For Dennis Abbott",
           "url": "https://sven.name?queryid=Order#497",
           "orderNumber": "Order#497",
-          "orderDate": "2-2-2021",
+          "orderDate": "2-3-2021",
           "orderStatus": "OrderProblem",
           "seller": {
             "type": "Organization",
@@ -233,7 +233,7 @@
         "telephone": "555-220-5591",
         "email": "August_Homenick32@example.com"
       },
-      "paymentDueDate": "2-4-2021",
+      "paymentDueDate": "2-5-2021",
       "totalPaymentDue": 104,
       "totalPaymentDueCurrency": "MKD",
       "paymentStatus": "PaymentDeclined",
@@ -281,7 +281,7 @@
             "email": "August_Homenick32@example.com"
           },
           "paymentMethod": "http://purl.org/goodrelations/v1#CheckInAdvance",
-          "paymentDueDate": "2-4-2021",
+          "paymentDueDate": "2-5-2021",
           "orderedItem": [
             {
               "type": "OrderedItem",
@@ -323,7 +323,7 @@
           "description": "New Order For Verona Wolff",
           "url": "https://hazel.info?queryid=Order#724",
           "orderNumber": "Order#724",
-          "orderDate": "2-2-2021",
+          "orderDate": "2-3-2021",
           "orderStatus": "OrderDelivered",
           "seller": {
             "type": "Organization",
@@ -417,7 +417,7 @@
           "description": "New Order For Dennis Abbott",
           "url": "https://sven.name?queryid=Order#497",
           "orderNumber": "Order#497",
-          "orderDate": "2-2-2021",
+          "orderDate": "2-3-2021",
           "orderStatus": "OrderProblem",
           "seller": {
             "type": "Organization",
@@ -484,7 +484,7 @@
         "https://w3id.org/traceability/v1"
       ],
       "identifier": "Invoice#319",
-      "paymentDueDate": "2-4-2021",
+      "paymentDueDate": "2-5-2021",
       "totalPaymentDueCurrency": "MKD",
       "paymentStatus": "PaymentDeclined",
       "microchip": "transmit"

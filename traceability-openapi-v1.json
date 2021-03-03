@@ -2572,7 +2572,7 @@
           "type": "EcommerceBindingDataRegistrationCredential",
           "finalCarrierName": "Wehner and Sons",
           "finalVesselID": "ACMEVessel#491",
-          "finalDateOfArrival": "4-5-2021",
+          "finalDateOfArrival": "4-6-2021",
           "finalModeOfTransport": "Air",
           "finalPortOfEntry": {
             "type": "ShippingStop",
@@ -2815,7 +2815,7 @@
               "description": "New Order For Verona Wolff",
               "url": "https://hazel.info?queryid=Order#724",
               "orderNumber": "Order#724",
-              "orderDate": "2-2-2021",
+              "orderDate": "2-3-2021",
               "orderStatus": "OrderDelivered",
               "seller": {
                 "type": "Organization",
@@ -3013,7 +3013,7 @@
           ],
           "type": "EcommerceOrderRegistrationEvidenceDocument",
           "orderNumber": "Order#673",
-          "orderDate": "2-2-2021",
+          "orderDate": "2-3-2021",
           "orderStatus": "OrderReturned",
           "description": "New Order For Elton Shanahan",
           "url": "http://verona.biz?queryid=Order#673",
@@ -4198,7 +4198,7 @@
                 "faxNumber": "555-543-2106"
               },
               "vesselNumber": "ACMECarrierVessel#918",
-              "arrivalDate": "2-2-2021",
+              "arrivalDate": "2-3-2021",
               "stopType": "Departure"
             },
             {
@@ -4229,7 +4229,7 @@
                 "faxNumber": "555-304-3208"
               },
               "vesselNumber": "ACMECarrierVessel#413",
-              "arrivalDate": "2-2-2021",
+              "arrivalDate": "2-3-2021",
               "stopType": "Destination"
             },
             {
@@ -4291,7 +4291,7 @@
                 "faxNumber": "555-450-5630"
               },
               "vesselNumber": "ACMECarrierVessel#122",
-              "arrivalDate": "2-2-2021",
+              "arrivalDate": "2-3-2021",
               "stopType": "Destination"
             }
           ],
@@ -5513,7 +5513,7 @@
             "name": "Kuhn, Kessler and King"
           },
           "status": "REJECTED",
-          "expirationDate": "2021-11-0",
+          "expirationDate": "2021-11-1",
           "expirationReason": "exploit clicks-and-mortar niches",
           "successorEntity": {
             "type": "Organization",
@@ -7024,7 +7024,7 @@
             "faxNumber": "555-886-9344"
           },
           "vesselNumber": "ACMECarrierVessel#80",
-          "arrivalDate": "2-2-2021",
+          "arrivalDate": "2-3-2021",
           "stopType": "Departure"
         }
       },
