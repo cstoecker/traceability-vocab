@@ -14,32 +14,32 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "Person",
-    "firstName": "Cleveland",
-    "lastName": "Kihn",
-    "email": "Cindy.Hudson@example.net",
-    "phoneNumber": "555-742-6546",
+    "firstName": "Chandler",
+    "lastName": "Sanford",
+    "email": "Roman_MacGyver@example.net",
+    "phoneNumber": "555-487-5516",
     "worksFor": {
       "type": "Organization",
-      "name": "Haag, Kuhic and Pfeffer",
-      "description": "Optimized systemic encryption",
+      "name": "Gislason Inc",
+      "description": "De-engineered intangible frame",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "30661 Jakubowski Parkway",
-        "addressLocality": "Frankstad",
-        "addressRegion": "Hawaii",
-        "postalCode": "64931-0504",
-        "addressCountry": "Italy"
+        "streetAddress": "8147 Kunde Islands",
+        "addressLocality": "Mayertport",
+        "addressRegion": "Georgia",
+        "postalCode": "96656",
+        "addressCountry": "French Guiana"
       },
-      "email": "Cheyenne11@example.org",
-      "phoneNumber": "555-502-4202",
-      "faxNumber": "555-328-5645"
+      "email": "Demario.McKenzie68@example.com",
+      "phoneNumber": "555-189-4802",
+      "faxNumber": "555-643-3685"
     },
-    "jobTitle": "Corporate Applications Designer"
+    "jobTitle": "Investor Tactics Specialist"
   },
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..95ExUD0ADhDKCSM1-wilFF76QpVRA95crBqs7UBBOC1uAUEM-PXfBjHDLBTLwWfapGy4OXdK6v81zN49lKbYBg",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..LzbLbVTMmCB0c6UPcbHqoOFVrtJvgZyKhFvZkz2eHjz9MDnJ2jArVWX1onbz6Nma_nEgRcqxIdscviaUDU3kAA",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

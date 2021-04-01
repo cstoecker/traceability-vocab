@@ -4,50 +4,50 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "ContactPoint",
-    "name": "Jacobi Group",
+    "name": "Keebler, Kirlin and Sporer",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "449 Bret Manors",
-      "addressLocality": "Armandtown",
-      "addressRegion": "Oregon",
-      "postalCode": "49477-0701",
-      "addressCountry": "Cyprus"
+      "streetAddress": "649 Grady Bridge",
+      "addressLocality": "North Earnestinetown",
+      "addressRegion": "Indiana",
+      "postalCode": "22972",
+      "addressCountry": "Virgin Islands, British"
     },
-    "email": "Madisyn.Kozey6@example.net",
-    "phoneNumber": "555-649-2182"
+    "email": "Domenica48@example.net",
+    "phoneNumber": "555-344-4340"
   },
   {
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
     "type": "ContactPoint",
-    "name": "Bogan - Tromp",
+    "name": "O'Keefe LLC",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "92374 Oren Locks",
-      "addressLocality": "North Carlie",
-      "addressRegion": "Missouri",
-      "postalCode": "00069-5135",
-      "addressCountry": "Gambia"
+      "streetAddress": "0820 Katelin Row",
+      "addressLocality": "Champlinmouth",
+      "addressRegion": "Vermont",
+      "postalCode": "30847-2674",
+      "addressCountry": "Wallis and Futuna"
     },
-    "email": "Alana_Reynolds@example.org",
-    "phoneNumber": "555-469-7946"
+    "email": "Claud.Mann@example.org",
+    "phoneNumber": "555-981-3308"
   },
   {
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
     "type": "ContactPoint",
-    "name": "Stark LLC",
+    "name": "Kuhic, Keebler and Cummerata",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "115 Hagenes Hills",
-      "addressLocality": "Weststad",
-      "addressRegion": "Wisconsin",
-      "postalCode": "11017",
-      "addressCountry": "Cyprus"
+      "streetAddress": "86555 Farrell Wall",
+      "addressLocality": "Jakubowskichester",
+      "addressRegion": "Nevada",
+      "postalCode": "77556",
+      "addressCountry": "Belarus"
     },
-    "email": "Karley.Ledner22@example.com",
-    "phoneNumber": "555-476-3258"
+    "email": "Tyrique.OReilly66@example.org",
+    "phoneNumber": "555-303-5124"
   }
 ]

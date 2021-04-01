@@ -4,12 +4,24 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "PostalAddress",
-    "organizationName": "Kling - Sipes",
-    "streetAddress": "80420 Hoeger Mission",
-    "addressLocality": "Isaiasborough",
-    "addressRegion": "Wyoming",
-    "postalCode": "37471-9087",
-    "addressCountry": "Georgia"
+    "organizationName": "Runolfsson - Borer",
+    "streetAddress": "977 Aniya Drives",
+    "addressLocality": "Kobestad",
+    "addressRegion": "Louisiana",
+    "postalCode": "28893",
+    "addressCountry": "Liberia"
+  },
+  {
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "type": "PostalAddress",
+    "organizationName": "Bergstrom LLC",
+    "streetAddress": "35439 Rutherford Wells",
+    "addressLocality": "Lake Bret",
+    "addressRegion": "West Virginia",
+    "postalCode": "87351",
+    "addressCountry": "Saint Martin"
   },
   {
     "@context": [
@@ -22,17 +34,5 @@
     "addressRegion": "Arizona",
     "postalCode": "28494",
     "addressCountry": "Ecuador"
-  },
-  {
-    "@context": [
-      "https://w3id.org/traceability/v1"
-    ],
-    "type": "PostalAddress",
-    "organizationName": "Jerde, Bernier and Glover",
-    "streetAddress": "206 Gibson Neck",
-    "addressLocality": "New Martyberg",
-    "addressRegion": "New Hampshire",
-    "postalCode": "83127-2681",
-    "addressCountry": "New Zealand"
   }
 ]

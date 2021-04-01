@@ -4,136 +4,67 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "LEIentity",
-    "legalName": "MacGyver Group",
-    "legalNameLanguage": "cz",
+    "legalName": "Schmeler, Hettinger and Quigley",
+    "legalNameLanguage": "en_AU",
     "otherNames": [
-      "Smith - Cronin",
-      "Torp - Legros"
+      "Hilll - Mann",
+      "Armstrong - Corwin"
     ],
     "transliteratedOtherNames": [
-      "Smith - Cronin",
-      "Torp - Legros"
+      "Hilll - Mann",
+      "Armstrong - Corwin"
     ],
     "legalAddress": {
       "type": "LEIaddress",
-      "language": "id_ID",
+      "language": "en_AU_ocker",
       "addressLines": [
-        "Harris and Sons",
-        "1193 Schmitt Brook"
+        "Hilll, Hoeger and Breitenberg",
+        "907 Labadie Inlet"
       ],
-      "addressNumber": "254",
-      "addressNumberWithinBuilding": "3",
-      "mailRouting": "73201 Bosco Fork, 16179-9066",
-      "city": "North Dedrickside",
-      "region": "Borders",
-      "country": "Qatar",
-      "postalCode": "02906-7048"
-    },
-    "headquartersAddress": {
-      "type": "LEIaddress",
-      "language": "uk",
-      "addressLines": [
-        "O'Conner - Gislason",
-        "43347 Jerrod Cape"
-      ],
-      "addressNumber": "474",
-      "addressNumberWithinBuilding": "10",
-      "mailRouting": "164 Waters Forest, 18215-3530",
-      "city": "Lake Pierreborough",
-      "region": "Buckinghamshire",
-      "country": "Benin",
-      "postalCode": "41833-1061"
-    },
-    "registrationAuthority": {
-      "type": "LEIauthority",
-      "validationAuthorityID": "RA000005",
-      "otherValidationAuthorityID": "4YZ2SCEI",
-      "validationAuthorityEntityID": "KHW0JI6DDYU5NCNFVEWN"
-    },
-    "legalJurisdiction": "Bedfordshire",
-    "entityCategory": "Grocery",
-    "legalForm": "CORPORATION",
-    "associatedEntity": {
-      "type": "Organization",
-      "leiCode": "8QDV92HGE7ZK2N5A1GMA",
-      "name": "Little LLC"
-    },
-    "status": "REJECTED",
-    "expirationDate": "2022-07-11",
-    "expirationReason": "syndicate enterprise technologies",
-    "successorEntity": {
-      "type": "Organization",
-      "leiCode": "L666S0P33KGW6ACB04ED",
-      "name": "Bashirian - Mraz"
-    },
-    "otherAddresses": []
-  },
-  {
-    "@context": [
-      "https://w3id.org/traceability/v1"
-    ],
-    "type": "LEIentity",
-    "legalName": "Maggio, Lang and Ruecker",
-    "legalNameLanguage": "es",
-    "otherNames": [
-      "Sporer - Stanton",
-      "Lindgren Group"
-    ],
-    "transliteratedOtherNames": [
-      "Sporer - Stanton",
-      "Lindgren Group"
-    ],
-    "legalAddress": {
-      "type": "LEIaddress",
-      "language": "nl",
-      "addressLines": [
-        "Durgan - Kilback",
-        "5904 Rodriguez Grove"
-      ],
-      "addressNumber": "434",
+      "addressNumber": "89",
       "addressNumberWithinBuilding": "2",
-      "mailRouting": "9973 Maxime Well, 23607-7330",
-      "city": "Prosaccoview",
-      "region": "Avon",
-      "country": "Mayotte",
-      "postalCode": "46713"
+      "mailRouting": "4905 Hoppe Mill, 98163",
+      "city": "Heavenhaven",
+      "region": "Borders",
+      "country": "Aruba",
+      "postalCode": "86920"
     },
     "headquartersAddress": {
       "type": "LEIaddress",
-      "language": "id_ID",
+      "language": "en_CA",
       "addressLines": [
-        "Labadie - Hirthe",
-        "8838 Osinski Mount"
+        "Rempel - Robel",
+        "11707 Lynch Common"
       ],
-      "addressNumber": "182",
-      "addressNumberWithinBuilding": "6",
-      "mailRouting": "232 Clemmie Hills, 55360-0667",
-      "city": "Fordmouth",
-      "region": "Berkshire",
-      "country": "American Samoa",
-      "postalCode": "34041"
+      "addressNumber": "208",
+      "addressNumberWithinBuilding": "7",
+      "mailRouting": "8123 Buckridge Heights, 35069",
+      "city": "Margaritafort",
+      "region": "Buckinghamshire",
+      "country": "Libyan Arab Jamahiriya",
+      "postalCode": "28148-5119"
     },
     "registrationAuthority": {
       "type": "LEIauthority",
       "validationAuthorityID": "RA000004",
-      "otherValidationAuthorityID": "OYBEOGV1",
-      "validationAuthorityEntityID": "81ZPDJ9IF83Q46E6RGWA"
+      "otherValidationAuthorityID": "GUWI1ZV3",
+      "validationAuthorityEntityID": "CAWMXCOXN2GJULYNR9MD"
     },
-    "legalJurisdiction": "Avon",
-    "entityCategory": "Grocery",
-    "legalForm": "CORPORATION",
+    "legalJurisdiction": "Berkshire",
+    "entityCategory": "Finance",
+    "legalForm": "LLC",
     "associatedEntity": {
       "type": "Organization",
-      "leiCode": "3CAWMXCOXN2GJULYNR9M",
-      "name": "Osinski - O'Conner"
+      "leiCode": "9HCBES1OHV4OE8CXR3S9",
+      "name": "Lindgren Group"
     },
-    "status": "REJECTED",
+    "status": "IN PROGRESS",
     "expirationDate": "2022-07-11",
-    "expirationReason": "revolutionize wireless technologies",
+    "expirationReason": "mesh sexy users",
     "successorEntity": {
       "type": "Organization",
-      "leiCode": "T2V9EZPL9PZ06I015KRX",
-      "name": "Wisozk - King"
+      "leiCode": "2PD7FK5V3FJY3GA5QEYY",
+      "name": "Hammes, Zemlak and Stroman"
     },
     "otherAddresses": []
   },
@@ -142,67 +73,136 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "LEIentity",
-    "legalName": "Daniel - Lehner",
-    "legalNameLanguage": "pl",
+    "legalName": "Haley - O'Connell",
+    "legalNameLanguage": "en_IE",
     "otherNames": [
-      "Shields - White",
-      "Becker, Towne and Breitenberg"
+      "Gottlieb and Sons",
+      "Dickinson, Reilly and MacGyver"
     ],
     "transliteratedOtherNames": [
-      "Shields - White",
-      "Becker, Towne and Breitenberg"
+      "Gottlieb and Sons",
+      "Dickinson, Reilly and MacGyver"
     ],
     "legalAddress": {
       "type": "LEIaddress",
       "language": "ar",
       "addressLines": [
-        "Franecki - Toy",
-        "9722 Herta Street"
+        "Mosciski, Quigley and Lang",
+        "0416 Jast Village"
       ],
-      "addressNumber": "315",
-      "addressNumberWithinBuilding": "6",
-      "mailRouting": "64776 Zboncak Ridge, 25483",
-      "city": "South Terry",
-      "region": "Buckinghamshire",
-      "country": "Kiribati",
-      "postalCode": "46587-2589"
+      "addressNumber": "39",
+      "addressNumberWithinBuilding": "4",
+      "mailRouting": "480 Wuckert Fords, 35254-2071",
+      "city": "West Claremouth",
+      "region": "Borders",
+      "country": "Guernsey",
+      "postalCode": "92621"
     },
     "headquartersAddress": {
       "type": "LEIaddress",
-      "language": "cz",
+      "language": "ko",
       "addressLines": [
-        "Towne - Ledner",
-        "2970 DuBuque Falls"
+        "O'Conner, Nicolas and Senger",
+        "249 Domenica Ridges"
       ],
-      "addressNumber": "158",
-      "addressNumberWithinBuilding": "5",
-      "mailRouting": "131 Kassulke Extensions, 37977-7529",
-      "city": "Konopelskiland",
-      "region": "Avon",
-      "country": "Gibraltar",
-      "postalCode": "32541"
+      "addressNumber": "413",
+      "addressNumberWithinBuilding": "1",
+      "mailRouting": "901 Bashirian Motorway, 57949",
+      "city": "South Verda",
+      "region": "Berkshire",
+      "country": "Singapore",
+      "postalCode": "99362"
     },
     "registrationAuthority": {
       "type": "LEIauthority",
-      "validationAuthorityID": "RA000004",
-      "otherValidationAuthorityID": "5QYDRS9H",
-      "validationAuthorityEntityID": "L6PQX9VHI2RMKNJD4Y4V"
+      "validationAuthorityID": "RA000002",
+      "otherValidationAuthorityID": "2UGW8JGM",
+      "validationAuthorityEntityID": "G9KSCM5II2TWNMC6XLWO"
     },
-    "legalJurisdiction": "Buckinghamshire",
+    "legalJurisdiction": "Avon",
     "entityCategory": "Jewelery",
     "legalForm": "CORPORATION",
     "associatedEntity": {
       "type": "Organization",
-      "leiCode": "CM5II2TWNMC6XLWO7I1P",
-      "name": "Aufderhar, Funk and Reichert"
+      "leiCode": "S5DKFID0DDILTUDVIHOQ",
+      "name": "Robel, McCullough and Shields"
     },
-    "status": "REJECTED",
+    "status": "IN PROGRESS",
     "expirationDate": "2022-07-11",
-    "expirationReason": "utilize mission-critical e-markets",
+    "expirationReason": "redefine proactive functionalities",
     "successorEntity": {
       "type": "Organization",
-      "leiCode": "5JZYMHF2AJLU1Z3F1BHW",
-      "name": "Dicki - Berge"
+      "leiCode": "3L6JO1N8WGQMIKZQ9ATK",
+      "name": "Bogisich - O'Connell"
+    },
+    "otherAddresses": []
+  },
+  {
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "type": "LEIentity",
+    "legalName": "Cassin - Dooley",
+    "legalNameLanguage": "vi",
+    "otherNames": [
+      "Beahan, Durgan and Herman",
+      "Stiedemann Inc"
+    ],
+    "transliteratedOtherNames": [
+      "Beahan, Durgan and Herman",
+      "Stiedemann Inc"
+    ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "fi",
+      "addressLines": [
+        "Howe, Ryan and Volkman",
+        "98410 McGlynn Hill"
+      ],
+      "addressNumber": "399",
+      "addressNumberWithinBuilding": "6",
+      "mailRouting": "1179 Otto Junctions, 45177",
+      "city": "Funkhaven",
+      "region": "Buckinghamshire",
+      "country": "Russian Federation",
+      "postalCode": "50765"
+    },
+    "headquartersAddress": {
+      "type": "LEIaddress",
+      "language": "nb_NO",
+      "addressLines": [
+        "Hoeger - Buckridge",
+        "270 Madisyn Forges"
+      ],
+      "addressNumber": "438",
+      "addressNumberWithinBuilding": "6",
+      "mailRouting": "15159 Jazlyn Vista, 02568",
+      "city": "Port Aurelioview",
+      "region": "Avon",
+      "country": "Uruguay",
+      "postalCode": "34961"
+    },
+    "registrationAuthority": {
+      "type": "LEIauthority",
+      "validationAuthorityID": "RA000661",
+      "otherValidationAuthorityID": "2MPE81OC",
+      "validationAuthorityEntityID": "Z9OOVYY9HTP1UJC29XYR"
+    },
+    "legalJurisdiction": "Bedfordshire",
+    "entityCategory": "Jewelery",
+    "legalForm": "CORPORATION",
+    "associatedEntity": {
+      "type": "Organization",
+      "leiCode": "UFOJVS7KVY2NVIB0BEIA",
+      "name": "Kirlin, O'Connell and Schinner"
+    },
+    "status": "IN PROGRESS",
+    "expirationDate": "2022-07-11",
+    "expirationReason": "deliver synergistic bandwidth",
+    "successorEntity": {
+      "type": "Organization",
+      "leiCode": "XRIM4JJQ4QLMHCME0Y74",
+      "name": "Glover - Wiegand"
     },
     "otherAddresses": []
   }

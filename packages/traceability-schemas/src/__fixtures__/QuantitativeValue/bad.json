@@ -1,24 +1,19 @@
 [
   {
-    "value": "6899",
-    "pixel": "generate",
-    "transmitter": "connect",
-    "sensor": "copy"
+    "value": "2794",
+    "matrix": "index",
+    "panel": "transmit",
+    "port": "quantify"
   },
   {
-    "driver": "generate",
-    "microchip": "input",
-    "alarm": "index",
-    "system": "navigate"
-  },
-  {
-    "@context": [
-      "https://w3id.org/traceability/v1"
-    ],
     "unitCode": "hg/ha",
-    "value": "4077",
-    "hard drive": "override",
-    "sensor": "calculate",
-    "panel": "transmit"
+    "hard drive": "transmit",
+    "capacitor": "compress",
+    "protocol": "copy",
+    "card": "reboot"
+  },
+  {
+    "value": "8259",
+    "system": "calculate"
   }
 ]

@@ -1,23 +1,26 @@
 [
   {
-    "type": "LinkRole",
-    "linkRelationship": "alternate",
-    "firewall": "back up",
-    "bus": "back up",
-    "program": "reboot"
+    "feed": "navigate",
+    "transmitter": "calculate",
+    "program": "back up",
+    "alarm": "override"
+  },
+  {
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "target": "https://example.com/related/link/123",
+    "feed": "navigate",
+    "interface": "navigate",
+    "array": "generate",
+    "bus": "back up"
   },
   {
     "type": "LinkRole",
     "target": "https://example.com/related/link/123",
     "linkRelationship": "alternate",
-    "circuit": "input",
-    "program": "generate"
-  },
-  {
-    "type": "LinkRole",
-    "transmitter": "synthesize",
-    "pixel": "index",
-    "sensor": "bypass",
-    "driver": "input"
+    "microchip": "compress",
+    "port": "back up",
+    "transmitter": "override"
   }
 ]

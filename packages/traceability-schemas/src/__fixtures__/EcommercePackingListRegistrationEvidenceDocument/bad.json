@@ -41,7 +41,7 @@
     ],
     "type": "EcommercePackingListRegistrationEvidenceDocument",
     "deliveryStatus": "EventScheduled",
-    "expectedArrivalFrom": "Thu Dec 31 2037 19:00:00 GMT-0500 (Eastern Standard Time)",
+    "expectedArrivalFrom": "Thu Dec 31 2037 16:00:00 GMT-0800 (Pacific Standard Time)",
     "hasDeliveryMethod": "http://purl.org/goodrelations/v1#DeliveryModeMail",
     "deliveryAddress": {
       "type": "PostalAddress",

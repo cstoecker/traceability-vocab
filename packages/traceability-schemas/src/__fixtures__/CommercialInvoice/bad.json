@@ -1,21 +1,18 @@
 [
   {
-    "microchip": "override",
-    "hard drive": "navigate",
-    "matrix": "navigate"
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "protocol": "input"
+  },
+  {
+    "application": "input",
+    "driver": "input"
   },
   {
     "type": [
       "CommercialInvoice"
     ],
-    "driver": "quantify",
-    "transmitter": "quantify",
-    "port": "synthesize"
-  },
-  {
-    "capacitor": "bypass",
-    "port": "program",
-    "system": "compress",
-    "bus": "navigate"
+    "pixel": "hack"
   }
 ]

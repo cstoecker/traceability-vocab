@@ -3,38 +3,42 @@
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
-    "type": "ProductRegistrationEvidenceDocument",
-    "inProductGroupWithID": "Group709",
-    "mpn": "BV370GSG4V",
-    "gtin": "77620086752041",
-    "releaseDate": "2020-01-07",
+    "category": "Convenience Goods",
+    "inProductGroupWithID": "Group106",
+    "mpn": "VYHV2HKCB5",
+    "isAccessoryOrSparePartFor": "n/a",
+    "manufacturer": "Stanton - Hilll",
+    "globalLocationNumber": "5694395579397",
     "leiCode": "",
-    "name": "Refined Frozen Car",
-    "model": "d20b69ea-b08e-4815-986a-067bcdd2e776",
-    "color": "orchid",
-    "material": "Metal",
-    "weight": "1.715 kg",
-    "height": "3.249 m",
-    "application": "bypass",
-    "firewall": "back up",
-    "alarm": "hack",
-    "bandwidth": "parse"
+    "name": "Ergonomic Cotton Soap",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "color": "indigo",
+    "weight": "7.61 kg",
+    "height": "5.993 m",
+    "width": "6.171 m",
+    "isBasedOn": "Licensed Rubber Towels",
+    "microchip": "bypass",
+    "hard drive": "copy",
+    "program": "synthesize"
   },
   {
-    "isAccessoryOrSparePartFor": "n/a",
-    "weight": "6.255 kg",
-    "driver": "transmit",
-    "protocol": "parse"
+    "capacitor": "override",
+    "protocol": "bypass",
+    "driver": "program"
   },
   {
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
-    "category": "Convenience Goods",
-    "inProductGroupWithID": "Group591",
-    "productID": "7126BH5LP5",
-    "releaseDate": "2020-01-07",
-    "isBasedOn": "Handmade Granite Salad",
-    "firewall": "back up"
+    "type": "ProductRegistrationEvidenceDocument",
+    "isAccessoryOrSparePartFor": "n/a",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "material": "Concrete",
+    "height": "5.368 m",
+    "width": "4.508 m",
+    "url": "https://example.com/Handcrafted Steel Ball",
+    "driver": "copy",
+    "transmitter": "bypass",
+    "system": "quantify"
   }
 ]

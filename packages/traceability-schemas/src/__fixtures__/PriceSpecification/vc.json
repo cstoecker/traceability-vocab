@@ -14,13 +14,13 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "PriceSpecification",
-    "price": 7432,
-    "priceCurrency": "GHS"
+    "price": 6224,
+    "priceCurrency": "EUR"
   },
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..ZqYP8waB3P8G5TYSU0I9LpdPqiAKF51uNNdJew-w8DZrIjcNuAKkXbfSelaxJUtk0HvEuRjXZNAFk0-fvYW4Dg",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..7fZ2ywBqWb4Hl_eFUcw7M5kjk-u1BGT_05XtiB_Drn97rUYKfE6If5uC0vgygWEkPu5GojmXnkLkaOQhr5dLCw",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

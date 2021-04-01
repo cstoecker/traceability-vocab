@@ -17,26 +17,34 @@
       "Purchase"
     ],
     "customer": {
-      "type": "Organization",
-      "name": "Kling - Wolff",
-      "description": "Innovative directional website",
-      "address": {
-        "type": "PostalAddress",
-        "streetAddress": "8367 Reinger Ridges",
-        "addressLocality": "Port Samir",
-        "addressRegion": "Tennessee",
-        "postalCode": "64622-3624",
-        "addressCountry": "Chile"
+      "type": "Person",
+      "firstName": "Timmy",
+      "lastName": "Kuhn",
+      "email": "Alexandrine.Labadie@example.org",
+      "phoneNumber": "555-756-6381",
+      "worksFor": {
+        "type": "Organization",
+        "name": "Streich, Halvorson and Bartoletti",
+        "description": "Upgradable multimedia framework",
+        "address": {
+          "type": "PostalAddress",
+          "streetAddress": "188 Melissa Curve",
+          "addressLocality": "Kerlukebury",
+          "addressRegion": "Illinois",
+          "postalCode": "63731",
+          "addressCountry": "Chile"
+        },
+        "email": "Amiya_Rowe70@example.net",
+        "phoneNumber": "555-923-6465",
+        "faxNumber": "555-776-5289"
       },
-      "email": "Giovanni12@example.com",
-      "phoneNumber": "555-237-7689",
-      "faxNumber": "555-825-3268"
+      "jobTitle": "District Solutions Planner"
     }
   },
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..hsKpgHXyqPUmamKMap-tgElDTe4NZGKbPlzVgibN0Vxcy8MqFQ2upnBkDDeVA-jeE8ZPhTairtkY9OX8169mAg",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..VV4Zw0DgocCZMq7VPT0eOwDr365lDafSJLyrky5tx875HSpUpHeuLr0JOhWL1oVSIjgxEtCU2opqNkmdNolEAQ",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

@@ -1,47 +1,72 @@
 [
   {
-    "@context": [
-      "https://w3id.org/traceability/v1"
-    ],
     "type": "Product",
-    "name": "Tasty Cotton Towels",
-    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-    "sizeOrAmount": {
-      "type": "QuantitativeValue",
-      "unitCode": "hg/ha",
-      "value": "2882"
+    "manufacturer": {
+      "type": "Organization",
+      "name": "Hayes, Goldner and Dare",
+      "description": "Digitized full-range neural-net",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "9901 Madisyn Route",
+        "addressLocality": "Reynoldshaven",
+        "addressRegion": "Louisiana",
+        "postalCode": "86077",
+        "addressCountry": "Western Sahara"
+      },
+      "email": "Kaci_Kohler@example.net",
+      "phoneNumber": "555-340-2623",
+      "faxNumber": "555-529-7894"
     },
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
     "weight": {
       "type": "QuantitativeValue",
       "unitCode": "hg/ha",
-      "value": "3337"
+      "value": "3997"
     },
-    "sku": "170151039980",
-    "system": "generate",
-    "card": "quantify",
-    "port": "reboot",
-    "matrix": "calculate"
+    "hard drive": "bypass"
   },
   {
+    "type": "Product",
+    "manufacturer": {
+      "type": "Organization",
+      "name": "Ferry, Schaden and Sanford",
+      "description": "Diverse zero administration benchmark",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "05000 Josefina Forges",
+        "addressLocality": "Adrieltown",
+        "addressRegion": "Indiana",
+        "postalCode": "57589",
+        "addressCountry": "Ukraine"
+      },
+      "email": "Mariam.Haag@example.com",
+      "phoneNumber": "555-680-3946",
+      "faxNumber": "555-473-2222"
+    },
+    "name": "Generic Rubber Chips",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "sku": "533594394607",
+    "port": "bypass"
+  },
+  {
+    "manufacturer": {
+      "type": "Organization",
+      "name": "Hickle, Olson and Anderson",
+      "description": "Intuitive dedicated superstructure",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "750 Franz Lodge",
+        "addressLocality": "West Lyla",
+        "addressRegion": "New York",
+        "postalCode": "78641-9497",
+        "addressCountry": "Thailand"
+      },
+      "email": "Carroll_Mitchell11@example.net",
+      "phoneNumber": "555-528-6173",
+      "faxNumber": "555-582-4582"
+    },
+    "feed": "hack",
+    "application": "index",
     "transmitter": "program"
-  },
-  {
-    "@context": [
-      "https://w3id.org/traceability/v1"
-    ],
-    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-    "sizeOrAmount": {
-      "type": "QuantitativeValue",
-      "unitCode": "hg/ha",
-      "value": "7923"
-    },
-    "weight": {
-      "type": "QuantitativeValue",
-      "unitCode": "hg/ha",
-      "value": "2934"
-    },
-    "sku": "899910542846",
-    "interface": "override",
-    "port": "copy"
   }
 ]

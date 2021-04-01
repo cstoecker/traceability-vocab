@@ -4,53 +4,53 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "LEIaddress",
-    "language": "zh_CN",
+    "language": "zh_TW",
     "addressLines": [
-      "Von Inc",
-      "1170 Lina Corners"
+      "Rutherford Group",
+      "44320 Terry Rest"
     ],
-    "addressNumber": "40",
-    "addressNumberWithinBuilding": "9",
-    "mailRouting": "397 Boyer Ridge, 22377-8813",
-    "city": "Johnsonstad",
+    "addressNumber": "390",
+    "addressNumberWithinBuilding": "2",
+    "mailRouting": "2503 Pacocha Greens, 33221-2442",
+    "city": "Rennerville",
     "region": "Bedfordshire",
-    "country": "Saint Pierre and Miquelon",
-    "postalCode": "12441"
+    "country": "Bolivia",
+    "postalCode": "76024"
   },
   {
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
     "type": "LEIaddress",
-    "language": "fr_CA",
+    "language": "id_ID",
     "addressLines": [
-      "Hessel - Wiegand",
-      "8743 Jennie Mall"
+      "Koepp Group",
+      "38743 Earnest Expressway"
     ],
-    "addressNumber": "265",
-    "addressNumberWithinBuilding": "4",
-    "mailRouting": "8085 Estell Knoll, 47592-9764",
-    "city": "Estellemouth",
-    "region": "Borders",
-    "country": "Guernsey",
-    "postalCode": "92791"
+    "addressNumber": "342",
+    "addressNumberWithinBuilding": "9",
+    "mailRouting": "21542 Dietrich Cliffs, 95973",
+    "city": "Port Alf",
+    "region": "Bedfordshire",
+    "country": "Solomon Islands",
+    "postalCode": "12974-6490"
   },
   {
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
     "type": "LEIaddress",
-    "language": "en_US",
+    "language": "de_CH",
     "addressLines": [
-      "Little, Greenfelder and Lubowitz",
-      "933 Denesik Gardens"
+      "Hoppe Group",
+      "5731 Eddie Dale"
     ],
-    "addressNumber": "150",
-    "addressNumberWithinBuilding": "5",
-    "mailRouting": "44277 Quitzon Falls, 02447-2375",
-    "city": "Doyleside",
-    "region": "Berkshire",
-    "country": "Belgium",
-    "postalCode": "50488-1681"
+    "addressNumber": "433",
+    "addressNumberWithinBuilding": "8",
+    "mailRouting": "327 Cleora Trail, 30616",
+    "city": "New Torrey",
+    "region": "Buckinghamshire",
+    "country": "Sri Lanka",
+    "postalCode": "68854"
   }
 ]

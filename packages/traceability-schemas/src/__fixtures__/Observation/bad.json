@@ -1,43 +1,40 @@
 [
   {
-    "port": "input",
-    "interface": "index"
+    "property": {
+      "type": "MechanicalProperty",
+      "identifier": "ISO 180",
+      "name": "Izod Impact Strength Test",
+      "description": "ISO 180 defines the method used for pendulums to determine the impact resistance of a plastic specimen when supported in a cantilever configuration. Test results are used to evaluate the resilience of materials, typically plastics."
+    },
+    "alarm": "hack",
+    "system": "quantify",
+    "array": "back up",
+    "interface": "connect"
+  },
+  {
+    "measurement": {
+      "type": "MeasuredValue",
+      "value": "93.183",
+      "unitCode": "P1"
+    },
+    "pixel": "parse"
   },
   {
     "type": "Observation",
     "property": {
       "type": "ChemicalProperty",
-      "name": "Scandium",
-      "formula": "Sc",
-      "inchi": "InChI=1S/Sc",
-      "inchikey": "SIXSYDAISGFNSX-UHFFFAOYSA-N"
+      "name": "Tungsten",
+      "formula": "W",
+      "inchi": "InChI=1S/W",
+      "inchikey": "WFKWXMTUELFFGS-UHFFFAOYSA-N"
     },
     "measurement": {
       "type": "MeasuredValue",
-      "value": "30.648",
+      "value": "50.806",
       "unitCode": "P1"
     },
-    "alarm": "generate",
-    "pixel": "copy",
-    "card": "back up"
-  },
-  {
-    "@context": [
-      "https://w3id.org/traceability/v1"
-    ],
-    "property": {
-      "type": "ChemicalProperty",
-      "name": "Oganesson",
-      "formula": "Og"
-    },
-    "measurement": {
-      "type": "MeasuredValue",
-      "value": "00.00",
-      "unitCode": "UNKNOWN"
-    },
-    "application": "synthesize",
-    "system": "hack",
-    "protocol": "navigate",
-    "card": "quantify"
+    "capacitor": "calculate",
+    "bus": "quantify",
+    "hard drive": "input"
   }
 ]

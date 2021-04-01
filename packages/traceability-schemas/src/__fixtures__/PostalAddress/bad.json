@@ -1,10 +1,22 @@
 [
   {
-    "organizationName": "Kling - Sipes",
-    "addressLocality": "Isaiasborough",
-    "addressCountry": "Georgia",
-    "sensor": "compress",
-    "alarm": "compress",
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "type": "PostalAddress",
+    "organizationName": "Runolfsson - Borer",
+    "addressLocality": "Kobestad",
+    "postalCode": "28893",
+    "firewall": "navigate",
+    "system": "transmit",
+    "program": "program",
+    "driver": "index"
+  },
+  {
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "addressCountry": "Saint Martin",
     "circuit": "back up"
   },
   {
@@ -17,12 +29,5 @@
     "postalCode": "28494",
     "addressCountry": "Ecuador",
     "monitor": "calculate"
-  },
-  {
-    "type": "PostalAddress",
-    "organizationName": "Jerde, Bernier and Glover",
-    "alarm": "override",
-    "interface": "program",
-    "capacitor": "override"
   }
 ]

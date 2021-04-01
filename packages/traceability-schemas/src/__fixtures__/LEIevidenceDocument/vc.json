@@ -14,73 +14,73 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "LEIevidenceDocument",
-    "lei": "RQN7TGNSYJPNXRIM4JJQ",
+    "lei": "057ISY7L2ZHU013NTARK",
     "entity": {
       "@context": [
         "https://w3id.org/traceability/v1"
       ],
       "type": "LEIentity",
-      "legalName": "Emmerich and Sons",
-      "legalNameLanguage": "nl",
+      "legalName": "Effertz - Kozey",
+      "legalNameLanguage": "nl_BE",
       "otherNames": [
-        "Mitchell Inc",
-        "Purdy and Sons"
+        "Wuckert LLC",
+        "Rippin Inc"
       ],
       "transliteratedOtherNames": [
-        "Mitchell Inc",
-        "Purdy and Sons"
+        "Wuckert LLC",
+        "Rippin Inc"
       ],
       "legalAddress": {
         "type": "LEIaddress",
-        "language": "fr",
+        "language": "zh_CN",
         "addressLines": [
-          "Toy and Sons",
-          "7926 Jarod Cliffs"
+          "Padberg Inc",
+          "803 Ryann Island"
         ],
-        "addressNumber": "73",
-        "addressNumberWithinBuilding": "3",
-        "mailRouting": "000 Edmund Prairie, 59283-6902",
-        "city": "Swifthaven",
-        "region": "Avon",
-        "country": "Iran",
-        "postalCode": "70582"
+        "addressNumber": "365",
+        "addressNumberWithinBuilding": "1",
+        "mailRouting": "2919 Ernser Heights, 92864",
+        "city": "Bergeview",
+        "region": "Cambridgeshire",
+        "country": "Tunisia",
+        "postalCode": "66198-5932"
       },
       "headquartersAddress": {
         "type": "LEIaddress",
-        "language": "ko",
+        "language": "ge",
         "addressLines": [
-          "Rogahn, Reinger and Ebert",
-          "62479 Annabelle Expressway"
+          "Wuckert - Bogan",
+          "17473 Jayne Harbors"
         ],
-        "addressNumber": "78",
-        "addressNumberWithinBuilding": "8",
-        "mailRouting": "970 Arlie Rue, 38852",
-        "city": "Buckridgeside",
+        "addressNumber": "336",
+        "addressNumberWithinBuilding": "6",
+        "mailRouting": "2027 Eden Brooks, 50072",
+        "city": "Thompsonberg",
         "region": "Borders",
-        "country": "Wallis and Futuna",
-        "postalCode": "02092"
+        "country": "Paraguay",
+        "postalCode": "36145-6113"
       },
       "registrationAuthority": {
         "type": "LEIauthority",
-        "validationAuthorityID": "RA000661",
-        "otherValidationAuthorityID": "VOHV2GPL",
-        "validationAuthorityEntityID": "M6YSKYC9IHZ3PKOI85QF"
+        "validationAuthorityID": "RA000004",
+        "otherValidationAuthorityID": "TP4KNDCF",
+        "validationAuthorityEntityID": "QKJ0G26VM2ZPTX29DDXK"
       },
-      "legalJurisdiction": "Cambridgeshire",
-      "entityCategory": "Industrial",
-      "legalForm": "CORPORATION",
+      "legalJurisdiction": "Buckinghamshire",
+      "entityCategory": "Finance",
+      "legalForm": "LLC",
       "associatedEntity": {
         "type": "Organization",
-        "leiCode": "4QLMHCME0Y74H9YHDUF5",
-        "name": "Kub - McGlynn"
+        "leiCode": "WAUCOX17SVU1S3IU8MUQ",
+        "name": "Veum, Ritchie and Swift"
       },
-      "status": "CONFIRMED",
+      "status": "REQUESTED",
       "expirationDate": "2022-07-11",
-      "expirationReason": "implement end-to-end users",
+      "expirationReason": "syndicate open-source content",
       "successorEntity": {
         "type": "Organization",
-        "leiCode": "0PADJ10RAYV8LBL6EKO5",
-        "name": "Hermiston Group"
+        "leiCode": "ECGP1A68SCG6APDMUHQE",
+        "name": "Upton Inc"
       },
       "otherAddresses": []
     },
@@ -91,27 +91,27 @@
       "type": "LEIregistration",
       "initialRegistrationDate": "2020-01-01",
       "lastUpdateDate": "2020-01-01",
-      "status": "REJECTED",
+      "status": "IN PROGRESS",
       "nextRenewalDate": "2021-02-02",
-      "managingLou": "YXTWCNRLKIMSBHEGUJLE",
-      "validationSources": "FULLY_CORROBORATED",
+      "managingLou": "PGBARCNSRFPJKNFSHCNK",
+      "validationSources": "PARTIALLY_CORROBORATED",
       "validationAuthority": [
         {
           "type": "LEIauthority",
-          "validationAuthorityID": "RA000005",
-          "otherValidationAuthorityID": "P4KNDCFQ",
-          "validationAuthorityEntityID": "KJ0G26VM2ZPTX29DDXKI"
+          "validationAuthorityID": "RA000001",
+          "otherValidationAuthorityID": "19RXWKGJ",
+          "validationAuthorityEntityID": "JLYD7TIIH494TJWXSB7V"
         }
       ]
     },
     "bic": [
-      "SJQWKPBGYY"
+      "MUOTSMDXJK"
     ]
   },
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..2m6kPOsQTOIOQ6yZoRhJwNUQ3aTQTNCIybtzrNoX7R15bCwpI7ITmjGk4-EX3j_uqhe8pQSRPyooYbx0Wa_pAg",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..KLFwVcq46nd0XUeFyAQhooHpkQzvr6Y3AyZctV-jhLuETaQYidWD4kUhbkSqzSLkVngbWI_2QcIFl0W8Sv-bBg",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

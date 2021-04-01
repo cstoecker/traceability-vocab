@@ -1,22 +1,95 @@
 [
   {
+    "observation": [
+      {
+        "type": [
+          "Observation"
+        ],
+        "property": {
+          "type": [
+            "ChemicalProperty"
+          ],
+          "name": "Copper"
+        },
+        "measurement": {
+          "type": [
+            "MeasuredValue"
+          ],
+          "value": "58.020",
+          "unitCode": "P1"
+        }
+      },
+      {
+        "type": [
+          "Observation"
+        ],
+        "property": {
+          "type": [
+            "ChemicalProperty"
+          ],
+          "name": "Roentgenium"
+        },
+        "measurement": {
+          "type": [
+            "MeasuredValue"
+          ],
+          "value": "41.980",
+          "unitCode": "P1"
+        }
+      }
+    ],
+    "hard drive": "generate"
+  },
+  {
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
-    "type": [
-      "ppq203"
+    "observation": [
+      {
+        "type": [
+          "Observation"
+        ],
+        "property": {
+          "type": [
+            "ChemicalProperty"
+          ],
+          "name": "Polonium"
+        },
+        "measurement": {
+          "type": [
+            "MeasuredValue"
+          ],
+          "value": "100.00",
+          "unitCode": "P1"
+        }
+      },
+      {
+        "type": [
+          "Observation"
+        ],
+        "property": {
+          "type": [
+            "MechanicalProperty"
+          ],
+          "identifier": "ISO 3738",
+          "name": "Rockwell Hardness Test (Scale A)",
+          "description": "The Rockwell hardness test is an empirical indentation hardness test that can provide useful information about metallic materials."
+        },
+        "measurement": {
+          "type": [
+            "MeasuredValue"
+          ],
+          "value": "00.00",
+          "unitCode": "UNKNOWN"
+        }
+      }
     ],
-    "driver": "transmit",
-    "microchip": "parse"
-  },
-  {
-    "transmitter": "input",
+    "capacitor": "transmit",
+    "protocol": "navigate",
+    "hard drive": "copy",
     "bus": "quantify"
   },
   {
-    "type": [
-      "ppq203"
-    ],
-    "application": "generate"
+    "panel": "copy"
   }
 ]

@@ -1,27 +1,61 @@
 [
   {
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
     "type": "Person",
-    "firstName": "Cleveland",
-    "lastName": "Kihn",
-    "phoneNumber": "555-742-6546",
-    "jobTitle": "Corporate Applications Designer",
-    "protocol": "calculate",
-    "circuit": "calculate"
+    "firstName": "Chandler",
+    "lastName": "Sanford",
+    "email": "Roman_MacGyver@example.net",
+    "phoneNumber": "555-487-5516",
+    "worksFor": {
+      "type": "Organization",
+      "name": "Gislason Inc",
+      "description": "De-engineered intangible frame",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "8147 Kunde Islands",
+        "addressLocality": "Mayertport",
+        "addressRegion": "Georgia",
+        "postalCode": "96656",
+        "addressCountry": "French Guiana"
+      },
+      "email": "Demario.McKenzie68@example.com",
+      "phoneNumber": "555-189-4802",
+      "faxNumber": "555-643-3685"
+    },
+    "driver": "copy",
+    "array": "index",
+    "monitor": "calculate",
+    "protocol": "back up"
   },
   {
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
-    "email": "Mariane_Mitchell@example.org",
-    "phoneNumber": "555-582-9033",
-    "matrix": "connect",
-    "bus": "navigate"
+    "email": "Jorge48@example.org",
+    "phoneNumber": "555-481-4904",
+    "worksFor": {
+      "type": "Organization",
+      "name": "Emmerich - Langworth",
+      "description": "Programmable hybrid toolset",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "5270 Champlin Station",
+        "addressLocality": "Auerchester",
+        "addressRegion": "Ohio",
+        "postalCode": "30661",
+        "addressCountry": "Mexico"
+      },
+      "email": "Charity.Bernier@example.org",
+      "phoneNumber": "555-522-4640",
+      "faxNumber": "555-553-4272"
+    },
+    "jobTitle": "International Infrastructure Facilitator",
+    "bandwidth": "synthesize"
   },
   {
-    "type": "Person",
-    "interface": "synthesize",
-    "array": "override",
-    "hard drive": "compress",
-    "bus": "override"
+    "lastName": "Blanda",
+    "firewall": "reboot"
   }
 ]

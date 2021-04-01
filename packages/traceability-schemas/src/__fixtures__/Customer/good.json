@@ -4,50 +4,50 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "Customer",
-    "name": "Aurelie Kohler",
+    "name": "Pearlie Rosenbaum",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "330 Wintheiser Springs",
-      "addressLocality": "East Ciaraport",
-      "addressRegion": "California",
-      "postalCode": "37752",
-      "addressCountry": "New Caledonia"
+      "streetAddress": "46571 Ruth Harbors",
+      "addressLocality": "Port Spencer",
+      "addressRegion": "Indiana",
+      "postalCode": "95152",
+      "addressCountry": "Antigua and Barbuda"
     },
-    "telephone": "555-597-1586",
-    "email": "Sylvia.Grady@example.com"
+    "telephone": "555-358-4210",
+    "email": "Dovie79@example.com"
   },
   {
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
     "type": "Customer",
-    "name": "Joany Hammes",
+    "name": "Ethyl Stiedemann",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "894 Christiansen Ports",
-      "addressLocality": "New Keenanton",
-      "addressRegion": "Nebraska",
-      "postalCode": "78820",
-      "addressCountry": "Heard Island and McDonald Islands"
+      "streetAddress": "4332 Rhianna Mews",
+      "addressLocality": "Harveyport",
+      "addressRegion": "Florida",
+      "postalCode": "71801",
+      "addressCountry": "Puerto Rico"
     },
-    "telephone": "555-823-7657",
-    "email": "Yasmeen_Johnson@example.net"
+    "telephone": "555-976-2686",
+    "email": "Rebekah.VonRueden@example.org"
   },
   {
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
     "type": "Customer",
-    "name": "Lorenz Bartell",
+    "name": "Alexanne Ruecker",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "86298 Blick Circles",
-      "addressLocality": "Evachester",
-      "addressRegion": "Utah",
-      "postalCode": "23320-0734",
-      "addressCountry": "Niue"
+      "streetAddress": "269 Aaliyah Trafficway",
+      "addressLocality": "Caylaland",
+      "addressRegion": "Maryland",
+      "postalCode": "34283",
+      "addressCountry": "Malta"
     },
-    "telephone": "555-981-3285",
-    "email": "Myrtis32@example.org"
+    "telephone": "555-291-1616",
+    "email": "Hailee_OHara90@example.org"
   }
 ]

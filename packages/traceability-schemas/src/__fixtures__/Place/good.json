@@ -4,20 +4,20 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "7776875140570",
+    "globalLocationNumber": "4857983822763",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "56.0093",
-      "longitude": "83.2396"
+      "latitude": "-67.1917",
+      "longitude": "-24.5502"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Swaniawski and Sons",
-      "streetAddress": "64890 Jena Street",
-      "addressLocality": "Noraville",
-      "addressRegion": "Tennessee",
-      "postalCode": "32854",
-      "addressCountry": "Australia"
+      "organizationName": "Schaden - Jacobi",
+      "streetAddress": "2914 Mohr Hill",
+      "addressLocality": "Mayerfort",
+      "addressRegion": "Florida",
+      "postalCode": "11040-9870",
+      "addressCountry": "Slovakia (Slovak Republic)"
     }
   },
   {
@@ -25,20 +25,20 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "7872494685727",
+    "globalLocationNumber": "5407336593568",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "-9.4802",
-      "longitude": "168.4305"
+      "latitude": "47.2628",
+      "longitude": "-108.9670"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Stracke, Mosciski and Kirlin",
-      "streetAddress": "01446 Nat Keys",
-      "addressLocality": "Krisview",
-      "addressRegion": "Maryland",
-      "postalCode": "12255",
-      "addressCountry": "Cayman Islands"
+      "organizationName": "Hamill, Heidenreich and Grady",
+      "streetAddress": "540 Zulauf Mountain",
+      "addressLocality": "Spinkaland",
+      "addressRegion": "Maine",
+      "postalCode": "04657",
+      "addressCountry": "Saint Pierre and Miquelon"
     }
   },
   {
@@ -46,20 +46,20 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "1600140867281",
+    "globalLocationNumber": "7203196457204",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "59.3404",
-      "longitude": "-87.1418"
+      "latitude": "19.3878",
+      "longitude": "87.6760"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Kulas - Osinski",
-      "streetAddress": "732 Borer Pike",
-      "addressLocality": "Moenmouth",
-      "addressRegion": "California",
-      "postalCode": "97717-0755",
-      "addressCountry": "Guernsey"
+      "organizationName": "McClure - Koss",
+      "streetAddress": "2122 Carole Mill",
+      "addressLocality": "West Jordi",
+      "addressRegion": "Kentucky",
+      "postalCode": "56088",
+      "addressCountry": "El Salvador"
     }
   }
 ]

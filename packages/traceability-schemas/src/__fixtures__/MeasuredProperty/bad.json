@@ -1,24 +1,30 @@
 [
   {
-    "identifier": "ISO 3738",
-    "name": "Rockwell Hardness Test (Scale A)",
-    "description": "The Rockwell hardness test is an empirical indentation hardness test that can provide useful information about metallic materials.",
-    "feed": "transmit"
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "type": "ChemicalProperty",
+    "formula": "Hs",
+    "bus": "back up"
+  },
+  {
+    "type": "ChemicalProperty",
+    "name": "Holmium",
+    "formula": "Ho",
+    "inchi": "InChI=1S/Ho",
+    "inchikey": "KJZYNXUDTRRSPN-UHFFFAOYSA-N",
+    "circuit": "input",
+    "program": "generate"
   },
   {
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
-    "inchikey": "ZOKXTWBITQBERF-UHFFFAOYSA-N",
-    "bus": "reboot",
-    "port": "parse",
-    "system": "hack",
-    "firewall": "program"
-  },
-  {
-    "@context": [
-      "https://w3id.org/traceability/v1"
-    ],
-    "panel": "reboot"
+    "type": "MechanicalProperty",
+    "identifier": "ISO 1352",
+    "feed": "quantify",
+    "interface": "connect",
+    "protocol": "back up",
+    "monitor": "parse"
   }
 ]

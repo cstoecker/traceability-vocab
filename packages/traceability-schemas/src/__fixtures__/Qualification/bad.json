@@ -1,17 +1,24 @@
 [
   {
-    "qualificationValue": "Assistant",
-    "pixel": "connect",
-    "hard drive": "quantify"
+    "qualificationValue": "Facilitator",
+    "array": "reboot",
+    "driver": "override",
+    "transmitter": "hack",
+    "panel": "parse"
   },
   {
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
     "type": "Qualification",
-    "sensor": "index",
-    "alarm": "program"
+    "qualificationCategory": "Product Accountability Planner",
+    "hard drive": "transmit",
+    "alarm": "connect"
   },
   {
-    "monitor": "reboot",
-    "capacitor": "compress",
-    "program": "generate"
+    "qualificationValue": "Facilitator",
+    "system": "generate",
+    "alarm": "connect",
+    "port": "override"
   }
 ]

@@ -14,22 +14,22 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "ContactPoint",
-    "name": "Jacobi Group",
+    "name": "Keebler, Kirlin and Sporer",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "449 Bret Manors",
-      "addressLocality": "Armandtown",
-      "addressRegion": "Oregon",
-      "postalCode": "49477-0701",
-      "addressCountry": "Cyprus"
+      "streetAddress": "649 Grady Bridge",
+      "addressLocality": "North Earnestinetown",
+      "addressRegion": "Indiana",
+      "postalCode": "22972",
+      "addressCountry": "Virgin Islands, British"
     },
-    "email": "Madisyn.Kozey6@example.net",
-    "phoneNumber": "555-649-2182"
+    "email": "Domenica48@example.net",
+    "phoneNumber": "555-344-4340"
   },
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..fbRL8BPm7fQc0tP49-xpnSqcQo0juZuI8iOhyf38f5S6a3gJMLbIJZ4hw29z8yV9MHzNDwJzp_WZYpSvGFd4Dg",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..yhbmRXOT85k9mbH938Ey7lFx1jW2H-ZC15FXT46PcknTZU-hIcsqw64CGu2_Llv_bv1m9Y7mbH1WBKEM-NzqAg",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

@@ -14,13 +14,13 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "chargeAndPaymentType",
-    "chargeCollect": 561,
-    "chargePrepaid": 354
+    "chargeCollect": 374,
+    "chargePrepaid": 391
   },
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..6YNlHHHbWnkdllN5pt7xWROXanU_BNfKpnw9bbrR9Y5HK-E3eg1-THA6AzGdgADKDjk4qtOo_ZmqsQCaeb2ODg",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..d9BMQpEeJFSHyetXMXKjIItLbT-DCOesz6AI520MFKxtBdXXnyXqY-QOsXv_kjZ5Q21tBPGeSNwc2JBazXY1DQ",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

@@ -1,15 +1,20 @@
 [
   {
-    "validationAuthorityEntityID": "74XKZQDBX1J49WPHNGZ1",
-    "bandwidth": "back up"
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "validationAuthorityID": "RA000661",
+    "otherValidationAuthorityID": "ZY6KOJ61",
+    "sensor": "connect"
   },
   {
-    "sensor": "navigate",
-    "matrix": "bypass"
+    "otherValidationAuthorityID": "E7ZK2N5A",
+    "validationAuthorityEntityID": "1GMA1DU5IVI0KV6K7BBQ",
+    "matrix": "index"
   },
   {
-    "type": "LEIauthority",
-    "panel": "reboot",
-    "card": "back up"
+    "capacitor": "reboot",
+    "alarm": "compress",
+    "bandwidth": "input"
   }
 ]

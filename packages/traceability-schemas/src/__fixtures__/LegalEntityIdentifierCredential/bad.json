@@ -1,20 +1,17 @@
 [
   {
-    "microchip": "generate",
-    "firewall": "synthesize",
-    "capacitor": "navigate"
+    "leiCode": "Y3X3R92VG43P03MMYCWS",
+    "program": "copy",
+    "monitor": "input"
   },
   {
-    "type": "LegalEntityIdentifierCredential",
-    "leiCode": "UBUHAVF1GS5D1UYS8C8O",
-    "certificateName": "US Legal Entity Certificate",
-    "circuit": "quantify",
-    "interface": "synthesize",
-    "system": "reboot",
-    "feed": "navigate"
+    "leiCode": "VS4DVFL14AFG54PGRU3K",
+    "sensor": "generate",
+    "array": "generate",
+    "firewall": "index"
   },
   {
-    "certificateName": "US Legal Entity Certificate",
-    "transmitter": "override"
+    "firewall": "navigate",
+    "hard drive": "bypass"
   }
 ]

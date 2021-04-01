@@ -25,13 +25,13 @@
           "type": [
             "ChemicalProperty"
           ],
-          "name": "Technetium"
+          "name": "Copper"
         },
         "measurement": {
           "type": [
             "MeasuredValue"
           ],
-          "value": "49.585",
+          "value": "58.020",
           "unitCode": "P1"
         }
       },
@@ -43,13 +43,13 @@
           "type": [
             "ChemicalProperty"
           ],
-          "name": "Nickel"
+          "name": "Roentgenium"
         },
         "measurement": {
           "type": [
             "MeasuredValue"
           ],
-          "value": "50.415",
+          "value": "41.980",
           "unitCode": "P1"
         }
       }
@@ -58,7 +58,7 @@
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..DV5IaTjlt6nD6geMwhbbaU1nvpt7rfpffS9DbX-Wa-_OqFHYR_UOVkE94m4nEQLRBXGNacbBa2ArVFK2_swbCA",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..x-3TkSUdmNjQS51co17B7TWslZgME0aDdgtQB-qwzeedqUdyDTmXe5tkG11veVv-lx0n8_BVL8C6JUdrThqwDw",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

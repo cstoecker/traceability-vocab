@@ -14,14 +14,14 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "LEIauthority",
-    "validationAuthorityID": "RA000002",
-    "otherValidationAuthorityID": "496IH824",
-    "validationAuthorityEntityID": "74XKZQDBX1J49WPHNGZ1"
+    "validationAuthorityID": "RA000661",
+    "otherValidationAuthorityID": "ZY6KOJ61",
+    "validationAuthorityEntityID": "Q2I6O17QQQZ4NUH5XA08"
   },
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..GMkeRoghYAelmoZxCy8ud7ABFD8FQAsLCfS2rHDo6CkoZNdBesVj-N36lCHnlbHPQBa9D484AHf2nzgsIqmZBQ",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..7mpkurqGn0k9BTFE6xOu2LEKqEPec34s1SBuPasHjhxpiFOmGBuEsk_bWllY9rzjgv-PyyLfCow1OhoVTso2Aw",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

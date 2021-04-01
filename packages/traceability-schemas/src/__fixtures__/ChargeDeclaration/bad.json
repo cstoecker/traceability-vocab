@@ -1,53 +1,59 @@
 [
   {
-    "@context": [
-      "https://w3id.org/traceability/v1"
-    ],
-    "type": "ChargeDeclaration",
+    "totalCharge": {
+      "type": "TotalCharge",
+      "totalPrepaid": 4519.5,
+      "totalCollect": 1506.5,
+      "sourceCurrency": "MOP",
+      "destinationCurrency": "SDG",
+      "currencyConversionRate": 1,
+      "ccChargesDestinationCurrency": "MOP",
+      "chargesDestination": 277,
+      "totalCollectCharge": 69.25
+    },
+    "array": "input",
+    "application": "parse",
+    "feed": "override"
+  },
+  {
     "weightCharge": {
       "type": "chargeAndPaymentType",
-      "chargeCollect": 374,
-      "chargePrepaid": 391
+      "chargeCollect": 791,
+      "chargePrepaid": 827
     },
     "taxCharge": {
       "type": "chargeAndPaymentType",
-      "chargeCollect": 454,
-      "chargePrepaid": 647
+      "chargeCollect": 522,
+      "chargePrepaid": 525
     },
     "otherChargesCarrier": {
       "type": "chargeAndPaymentType",
-      "chargeCollect": 888,
-      "chargePrepaid": 225
+      "chargeCollect": 156,
+      "chargePrepaid": 131
     },
     "totalCharge": {
       "type": "TotalCharge",
-      "totalPrepaid": 2940.75,
-      "totalCollect": 980.25,
-      "sourceCurrency": "MMK",
-      "destinationCurrency": "BOB",
-      "currencyConversionRate": 3,
-      "ccChargesDestinationCurrency": "MMK",
-      "chargesDestination": 667,
-      "totalCollectCharge": 166.75
+      "totalPrepaid": 3259.5,
+      "totalCollect": 1086.5,
+      "sourceCurrency": "GHS",
+      "destinationCurrency": "PLN",
+      "currencyConversionRate": 1,
+      "ccChargesDestinationCurrency": "GHS",
+      "chargesDestination": 243,
+      "totalCollectCharge": 60.75
     },
-    "driver": "back up"
+    "monitor": "input",
+    "matrix": "input",
+    "capacitor": "copy",
+    "alarm": "override"
   },
   {
     "taxCharge": {
       "type": "chargeAndPaymentType",
-      "chargeCollect": 362,
-      "chargePrepaid": 189
+      "chargeCollect": 640,
+      "chargePrepaid": 501
     },
-    "protocol": "quantify",
-    "sensor": "synthesize",
-    "pixel": "transmit"
-  },
-  {
-    "@context": [
-      "https://w3id.org/traceability/v1"
-    ],
-    "system": "navigate",
-    "panel": "hack",
-    "card": "input"
+    "matrix": "navigate",
+    "panel": "back up"
   }
 ]

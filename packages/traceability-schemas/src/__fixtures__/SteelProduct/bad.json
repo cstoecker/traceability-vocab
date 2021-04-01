@@ -1,47 +1,13 @@
 [
   {
-    "grade": "31816",
-    "originalCountryOfMeltAndPour": "Cuba",
-    "circuit": "index"
-  },
-  {
-    "@context": [
-      "https://w3id.org/traceability/v1"
-    ],
-    "type": "SteelProduct",
-    "grade": "51338",
-    "circuit": "back up",
-    "transmitter": "generate",
-    "capacitor": "bypass"
-  },
-  {
-    "@context": [
-      "https://w3id.org/traceability/v1"
-    ],
-    "type": "SteelProduct",
-    "heatNumber": "2638",
-    "originalCountryOfMeltAndPour": "Eritrea",
+    "heatNumber": "56265",
+    "originalCountryOfMeltAndPour": "Montenegro",
     "inspection": {
       "@context": [
         "https://w3id.org/traceability/v1"
       ],
       "type": "InspectionReport",
       "observation": [
-        {
-          "type": "Observation",
-          "property": {
-            "type": "ChemicalProperty",
-            "name": "Molybdenum",
-            "formula": "Mo",
-            "inchi": "InChI=1S/Mo",
-            "inchikey": "ZOKXTWBITQBERF-UHFFFAOYSA-N"
-          },
-          "measurement": {
-            "type": "MeasuredValue",
-            "value": "35.794",
-            "unitCode": "P1"
-          }
-        },
         {
           "type": "Observation",
           "property": {
@@ -52,7 +18,7 @@
           },
           "measurement": {
             "type": "MeasuredValue",
-            "value": "75.179",
+            "value": "83.613",
             "unitCode": "B13"
           }
         },
@@ -60,14 +26,29 @@
           "type": "Observation",
           "property": {
             "type": "ChemicalProperty",
-            "name": "Protactinium",
-            "formula": "Pa",
-            "inchi": "InChI=1S/Pa",
-            "inchikey": "XLROVYAPLOFLNU-UHFFFAOYSA-N"
+            "name": "Ytterbium",
+            "formula": "Yb",
+            "inchi": "InChI=1S/Yb",
+            "inchikey": "NAWDYIZEMPQZHO-UHFFFAOYSA-N"
           },
           "measurement": {
             "type": "MeasuredValue",
-            "value": "10.693",
+            "value": "35.411",
+            "unitCode": "P1"
+          }
+        },
+        {
+          "type": "Observation",
+          "property": {
+            "type": "ChemicalProperty",
+            "name": "Holmium",
+            "formula": "Ho",
+            "inchi": "InChI=1S/Ho",
+            "inchikey": "KJZYNXUDTRRSPN-UHFFFAOYSA-N"
+          },
+          "measurement": {
+            "type": "MeasuredValue",
+            "value": "64.589",
             "unitCode": "P1"
           }
         },
@@ -88,31 +69,51 @@
         {
           "type": "Observation",
           "property": {
-            "type": "ChemicalProperty",
-            "name": "Osmium",
-            "formula": "Os",
-            "inchi": "InChI=1S/Os",
-            "inchikey": "SYQBFIAQOQZEGI-UHFFFAOYSA-N"
+            "type": "MechanicalProperty",
+            "identifier": "ISO 1352",
+            "name": "Torque-controlled fatigue testing",
+            "description": "ISO 1352:2011 specifies the conditions for performing torsional, constant-amplitude, nominally elastic stress fatigue tests on metallic specimens without deliberately introducing stress concentrations. The tests are carried out at ambient temperature (ideally at between 10 °C and 35 °C) in air by applying a pure couple to the specimen about its longitudinal axis."
           },
           "measurement": {
             "type": "MeasuredValue",
-            "value": "14.793",
-            "unitCode": "P1"
+            "value": "00.00",
+            "unitCode": "UNKNOWN"
           }
-        },
+        }
+      ]
+    },
+    "system": "generate",
+    "interface": "connect"
+  },
+  {
+    "alarm": "navigate",
+    "bus": "connect"
+  },
+  {
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "grade": "29680",
+    "heatNumber": "19199",
+    "originalCountryOfMeltAndPour": "Guatemala",
+    "inspection": {
+      "@context": [
+        "https://w3id.org/traceability/v1"
+      ],
+      "type": "InspectionReport",
+      "observation": [
         {
           "type": "Observation",
           "property": {
-            "type": "ChemicalProperty",
-            "name": "Beryllium",
-            "formula": "Be",
-            "inchi": "InChI=1S/Be",
-            "inchikey": "ATBAMAFKBVZNFJ-UHFFFAOYSA-N"
+            "type": "MechanicalProperty",
+            "identifier": "ISO 180",
+            "name": "Izod Impact Strength Test",
+            "description": "ISO 180 defines the method used for pendulums to determine the impact resistance of a plastic specimen when supported in a cantilever configuration. Test results are used to evaluate the resilience of materials, typically plastics."
           },
           "measurement": {
             "type": "MeasuredValue",
-            "value": "14.979",
-            "unitCode": "P1"
+            "value": "90.449",
+            "unitCode": "B13"
           }
         },
         {
@@ -132,23 +133,22 @@
         {
           "type": "Observation",
           "property": {
-            "type": "ChemicalProperty",
-            "name": "Holmium",
-            "formula": "Ho",
-            "inchi": "InChI=1S/Ho",
-            "inchikey": "KJZYNXUDTRRSPN-UHFFFAOYSA-N"
+            "type": "MechanicalProperty",
+            "identifier": "ISO 1352",
+            "name": "Torque-controlled fatigue testing",
+            "description": "ISO 1352:2011 specifies the conditions for performing torsional, constant-amplitude, nominally elastic stress fatigue tests on metallic specimens without deliberately introducing stress concentrations. The tests are carried out at ambient temperature (ideally at between 10 °C and 35 °C) in air by applying a pure couple to the specimen about its longitudinal axis."
           },
           "measurement": {
             "type": "MeasuredValue",
-            "value": "23.741",
-            "unitCode": "P1"
+            "value": "00.00",
+            "unitCode": "UNKNOWN"
           }
         }
       ]
     },
-    "application": "navigate",
-    "capacitor": "calculate",
-    "array": "input",
-    "program": "override"
+    "microchip": "index",
+    "interface": "parse",
+    "circuit": "connect",
+    "driver": "generate"
   }
 ]

@@ -1,28 +1,43 @@
 [
   {
-    "name": "Jacobi Group",
+    "array": "generate"
+  },
+  {
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "type": "ContactPoint",
+    "name": "O'Keefe LLC",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "449 Bret Manors",
-      "addressLocality": "Armandtown",
-      "addressRegion": "Oregon",
-      "postalCode": "49477-0701",
-      "addressCountry": "Cyprus"
+      "streetAddress": "0820 Katelin Row",
+      "addressLocality": "Champlinmouth",
+      "addressRegion": "Vermont",
+      "postalCode": "30847-2674",
+      "addressCountry": "Wallis and Futuna"
     },
-    "email": "Madisyn.Kozey6@example.net",
-    "phoneNumber": "555-649-2182",
-    "driver": "compress",
-    "port": "compress"
+    "matrix": "navigate",
+    "microchip": "hack",
+    "driver": "hack"
   },
   {
-    "system": "transmit",
-    "port": "calculate",
-    "monitor": "connect",
-    "matrix": "parse"
-  },
-  {
-    "hard drive": "calculate",
-    "protocol": "compress",
-    "system": "program"
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "type": "ContactPoint",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "86555 Farrell Wall",
+      "addressLocality": "Jakubowskichester",
+      "addressRegion": "Nevada",
+      "postalCode": "77556",
+      "addressCountry": "Belarus"
+    },
+    "email": "Tyrique.OReilly66@example.org",
+    "phoneNumber": "555-303-5124",
+    "interface": "connect",
+    "alarm": "input",
+    "hard drive": "copy",
+    "protocol": "transmit"
   }
 ]

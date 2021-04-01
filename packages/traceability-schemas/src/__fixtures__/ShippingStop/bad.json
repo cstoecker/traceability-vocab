@@ -1,59 +1,72 @@
 [
   {
-    "transmitter": "connect",
-    "bus": "override",
-    "bandwidth": "transmit",
-    "monitor": "generate"
-  },
-  {
+    "shippingStopAddress": {
+      "type": "PostalAddress",
+      "organizationName": "Leuschke - Dibbert",
+      "streetAddress": "44673 Elda Falls",
+      "addressLocality": "Hegmannborough",
+      "addressRegion": "Pennsylvania",
+      "postalCode": "81382-1809",
+      "addressCountry": "Nicaragua"
+    },
     "carrier": {
       "type": "Organization",
-      "name": "Huel - Lemke",
-      "description": "Focused demand-driven secured line",
+      "name": "Ziemann Inc",
+      "description": "Re-contextualized methodical time-frame",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "597 Jacobson Centers",
-        "addressLocality": "Albertstad",
-        "addressRegion": "Kentucky",
-        "postalCode": "54928",
-        "addressCountry": "Senegal"
+        "streetAddress": "3723 Klocko Mill",
+        "addressLocality": "West Renechester",
+        "addressRegion": "Washington",
+        "postalCode": "68391-2272",
+        "addressCountry": "Hungary"
       },
-      "email": "Ivah.Walter@example.net",
-      "phoneNumber": "555-214-6710",
-      "faxNumber": "555-183-5794"
+      "email": "Roberto.Thompson81@example.org",
+      "phoneNumber": "555-652-7093",
+      "faxNumber": "555-950-5283"
     },
-    "vesselNumber": "ACMECarrierVessel#526",
-    "stopType": "Stopover",
-    "bandwidth": "hack",
-    "application": "reboot"
+    "vesselNumber": "ACMECarrierVessel#297",
+    "arrivalDate": "2021-03-09",
+    "stopType": "Destination",
+    "hard drive": "back up",
+    "microchip": "generate"
   },
   {
     "shippingStopAddress": {
       "type": "PostalAddress",
-      "organizationName": "Kling Inc",
-      "streetAddress": "731 Barney Brook",
-      "addressLocality": "South Brandon",
-      "addressRegion": "Ohio",
-      "postalCode": "30686",
-      "addressCountry": "Luxembourg"
+      "organizationName": "Labadie - Koepp",
+      "streetAddress": "0909 Predovic Mount",
+      "addressLocality": "Port Henriette",
+      "addressRegion": "Florida",
+      "postalCode": "17054",
+      "addressCountry": "Mexico"
     },
     "carrier": {
       "type": "Organization",
-      "name": "Hermiston Inc",
-      "description": "Visionary reciprocal data-warehouse",
+      "name": "Bode Inc",
+      "description": "Phased static artificial intelligence",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "441 Dooley Locks",
-        "addressLocality": "Eloisefort",
+        "streetAddress": "612 Kerluke Road",
+        "addressLocality": "Grimesborough",
         "addressRegion": "Arizona",
-        "postalCode": "67283",
-        "addressCountry": "Croatia"
+        "postalCode": "49372",
+        "addressCountry": "Saint Helena"
       },
-      "email": "Derek_Kling43@example.org",
-      "phoneNumber": "555-793-8264",
-      "faxNumber": "555-394-7816"
+      "email": "Rocio_Wehner53@example.org",
+      "phoneNumber": "555-725-3271",
+      "faxNumber": "555-792-4732"
     },
-    "hard drive": "copy",
-    "capacitor": "hack"
+    "vesselNumber": "ACMECarrierVessel#328",
+    "arrivalDate": "2021-03-09",
+    "stopType": "Departure",
+    "program": "quantify",
+    "panel": "generate",
+    "pixel": "copy"
+  },
+  {
+    "type": "ShippingStop",
+    "array": "copy",
+    "driver": "bypass"
   }
 ]

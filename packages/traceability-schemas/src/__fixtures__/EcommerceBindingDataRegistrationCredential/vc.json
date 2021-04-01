@@ -14,48 +14,48 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "EcommerceBindingDataRegistrationCredential",
-    "finalCarrierName": "Gutkowski Group",
-    "finalVesselID": "ACMEVessel#754",
+    "finalCarrierName": "Harris, Medhurst and Heaney",
+    "finalVesselID": "ACMEVessel#219",
     "finalDateOfArrival": "2022-05-11",
-    "finalModeOfTransport": "Truck",
+    "finalModeOfTransport": "Rail",
     "finalPortOfEntry": {
       "type": "ShippingStop",
       "shippingStopAddress": {
         "type": "PostalAddress",
-        "organizationName": "Turner Group",
-        "streetAddress": "863 Trantow Pike",
-        "addressLocality": "Denesikstad",
-        "addressRegion": "Arkansas",
-        "postalCode": "28720-4529",
-        "addressCountry": "Senegal"
+        "organizationName": "Graham, Barton and Keeling",
+        "streetAddress": "2978 Mafalda Parkways",
+        "addressLocality": "East Rickieberg",
+        "addressRegion": "New Jersey",
+        "postalCode": "17059",
+        "addressCountry": "Antarctica (the territory South of 60 deg S)"
       },
       "carrier": {
         "type": "Organization",
-        "name": "Conn, Mills and Heaney",
-        "description": "Total clear-thinking hierarchy",
+        "name": "Ferry - Padberg",
+        "description": "Open-architected bi-directional artificial intelligence",
         "address": {
           "type": "PostalAddress",
-          "streetAddress": "28254 Aurelia Courts",
-          "addressLocality": "Tabithatown",
-          "addressRegion": "North Dakota",
-          "postalCode": "80895-0564",
-          "addressCountry": "Belgium"
+          "streetAddress": "950 Hilton Motorway",
+          "addressLocality": "West Talonview",
+          "addressRegion": "Mississippi",
+          "postalCode": "16381-4169",
+          "addressCountry": "New Caledonia"
         },
-        "email": "Lennie.White@example.org",
-        "phoneNumber": "555-385-9196",
-        "faxNumber": "555-491-5179"
+        "email": "Gerardo_Schaefer@example.org",
+        "phoneNumber": "555-500-6325",
+        "faxNumber": "555-809-7323"
       },
-      "stopType": "Stopover"
+      "stopType": "Departure"
     },
     "wayBillVCID": [
-      "https://vc.example.com/?queryID=0xe5eb2258BaFe5E5daAFb5d81D5070ad1D356aF97aad4ad96a4cbb0C014C0C267"
+      "https://vc.example.com/?queryID=0x5daAFb5d81D5070ad1D356aF97aad4ad96a4cbb0C014C0C267aB9c4b860E68B1"
     ],
     "certificateName": "ACME Carrier Ecommerce Binding Data Registration Certificate"
   },
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..-ncpssTpiA3Q7QdTHWEAVBkjzTNNz3wh7tbeRRlyltOFbK0l5fkws1gq8VR53xHQzJIx5GtJljJ0N_LkAipCAg",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..ioNvU4Z9gD9c2SgcLlv9ISEcwuxqPGjJge6uEw1pFDidN2IDLTwddI_mBhVgcvzGDiqN56Dp8pDymqwci2uVBg",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

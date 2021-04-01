@@ -3,19 +3,19 @@
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
-    "interface": "calculate"
+    "type": "chargeAndPaymentType",
+    "circuit": "override",
+    "pixel": "hack",
+    "interface": "back up"
   },
   {
-    "chargeCollect": 26,
-    "program": "calculate"
+    "type": "chargeAndPaymentType",
+    "chargeCollect": 699,
+    "chargePrepaid": 186,
+    "microchip": "transmit",
+    "interface": "bypass"
   },
   {
-    "@context": [
-      "https://w3id.org/traceability/v1"
-    ],
-    "chargeCollect": 229,
-    "chargePrepaid": 319,
-    "sensor": "program",
-    "matrix": "transmit"
+    "bandwidth": "quantify"
   }
 ]

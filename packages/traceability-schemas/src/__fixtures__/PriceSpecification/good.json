@@ -4,23 +4,23 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "PriceSpecification",
-    "price": 7432,
-    "priceCurrency": "GHS"
-  },
-  {
-    "@context": [
-      "https://w3id.org/traceability/v1"
-    ],
-    "type": "PriceSpecification",
-    "price": 3095,
-    "priceCurrency": "ISK"
-  },
-  {
-    "@context": [
-      "https://w3id.org/traceability/v1"
-    ],
-    "type": "PriceSpecification",
-    "price": 2826,
+    "price": 6224,
     "priceCurrency": "EUR"
+  },
+  {
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "type": "PriceSpecification",
+    "price": 6597,
+    "priceCurrency": "DOP"
+  },
+  {
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "type": "PriceSpecification",
+    "price": 3458,
+    "priceCurrency": "THB"
   }
 ]

@@ -1,19 +1,24 @@
 [
   {
-    "transmitter": "calculate",
-    "matrix": "parse",
-    "port": "bypass"
-  },
-  {
-    "type": "PriceSpecification",
-    "bandwidth": "override"
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "priceCurrency": "EUR",
+    "driver": "connect",
+    "bus": "generate",
+    "feed": "transmit"
   },
   {
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
-    "price": 2826,
-    "priceCurrency": "EUR",
-    "microchip": "reboot"
+    "alarm": "back up",
+    "capacitor": "reboot"
+  },
+  {
+    "priceCurrency": "THB",
+    "application": "quantify",
+    "program": "bypass",
+    "port": "compress"
   }
 ]

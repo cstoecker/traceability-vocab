@@ -14,19 +14,19 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "TotalCharge",
-    "totalPrepaid": 3745.5,
-    "totalCollect": 1248.5,
-    "sourceCurrency": "MXN",
-    "destinationCurrency": "TWD",
-    "currencyConversionRate": 5,
-    "ccChargesDestinationCurrency": "MXN",
-    "chargesDestination": 620,
-    "totalCollectCharge": 155
+    "totalPrepaid": 3582.75,
+    "totalCollect": 1194.25,
+    "sourceCurrency": "NPR",
+    "destinationCurrency": "LTL",
+    "currencyConversionRate": 1,
+    "ccChargesDestinationCurrency": "NPR",
+    "chargesDestination": 328,
+    "totalCollectCharge": 82
   },
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..lhoJTDAlTwn6YQqnOLcerYBtvTXYalmOCTS9FnIvDraotBj0d2aoyu4WMeY6YBP90e-3DX5JhWS_DnCGLw0gBA",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..7JOdV6GN2WlGpeyXtUl2y5xWZHpRf4lBZI32oVWpVuoJce4AAK_eNh4C-RGOq4H-1AGYSgtbwyHUUvGCnuGpDA",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

@@ -1,31 +1,37 @@
 [
   {
-    "totalPrepaid": 3745.5,
-    "totalCollect": 1248.5,
-    "destinationCurrency": "TWD",
-    "currencyConversionRate": 5,
-    "ccChargesDestinationCurrency": "MXN",
-    "bus": "override",
-    "microchip": "navigate",
-    "circuit": "transmit",
-    "array": "synthesize"
-  },
-  {
-    "destinationCurrency": "RSD",
-    "currencyConversionRate": 3,
-    "card": "synthesize",
-    "sensor": "navigate",
-    "feed": "synthesize"
-  },
-  {
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
     "type": "TotalCharge",
-    "totalPrepaid": 6327,
-    "sourceCurrency": "LVL",
-    "destinationCurrency": "TWD",
-    "ccChargesDestinationCurrency": "LVL",
-    "chargesDestination": 477,
-    "circuit": "program",
-    "card": "calculate",
-    "interface": "hack"
+    "totalPrepaid": 3582.75,
+    "sourceCurrency": "NPR",
+    "destinationCurrency": "LTL",
+    "currencyConversionRate": 1,
+    "ccChargesDestinationCurrency": "NPR",
+    "chargesDestination": 328,
+    "totalCollectCharge": 82,
+    "program": "transmit",
+    "circuit": "hack",
+    "sensor": "input",
+    "hard drive": "calculate"
+  },
+  {
+    "totalCollectCharge": 65.25,
+    "hard drive": "override",
+    "program": "override"
+  },
+  {
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "totalPrepaid": 2521.5,
+    "totalCollect": 840.5,
+    "destinationCurrency": "NIO",
+    "ccChargesDestinationCurrency": "VND",
+    "driver": "input",
+    "card": "program",
+    "alarm": "generate",
+    "circuit": "input"
   }
 ]

@@ -4,41 +4,41 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "TotalCharge",
-    "totalPrepaid": 3745.5,
-    "totalCollect": 1248.5,
-    "sourceCurrency": "MXN",
-    "destinationCurrency": "TWD",
-    "currencyConversionRate": 5,
-    "ccChargesDestinationCurrency": "MXN",
-    "chargesDestination": 620,
-    "totalCollectCharge": 155
+    "totalPrepaid": 3582.75,
+    "totalCollect": 1194.25,
+    "sourceCurrency": "NPR",
+    "destinationCurrency": "LTL",
+    "currencyConversionRate": 1,
+    "ccChargesDestinationCurrency": "NPR",
+    "chargesDestination": 328,
+    "totalCollectCharge": 82
   },
   {
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
     "type": "TotalCharge",
-    "totalPrepaid": 6798.75,
-    "totalCollect": 2266.25,
-    "sourceCurrency": "HRK",
-    "destinationCurrency": "RSD",
+    "totalPrepaid": 4800,
+    "totalCollect": 1600,
+    "sourceCurrency": "MMK",
+    "destinationCurrency": "INR",
     "currencyConversionRate": 3,
-    "ccChargesDestinationCurrency": "HRK",
-    "chargesDestination": 447,
-    "totalCollectCharge": 111.75
+    "ccChargesDestinationCurrency": "MMK",
+    "chargesDestination": 261,
+    "totalCollectCharge": 65.25
   },
   {
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
     "type": "TotalCharge",
-    "totalPrepaid": 6327,
-    "totalCollect": 2109,
-    "sourceCurrency": "LVL",
-    "destinationCurrency": "TWD",
-    "currencyConversionRate": 4,
-    "ccChargesDestinationCurrency": "LVL",
-    "chargesDestination": 477,
-    "totalCollectCharge": 119.25
+    "totalPrepaid": 2521.5,
+    "totalCollect": 840.5,
+    "sourceCurrency": "VND",
+    "destinationCurrency": "NIO",
+    "currencyConversionRate": 2,
+    "ccChargesDestinationCurrency": "VND",
+    "chargesDestination": 913,
+    "totalCollectCharge": 228.25
   }
 ]

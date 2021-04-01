@@ -1,22 +1,26 @@
 [
   {
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
     "type": "MeasuredValue",
-    "panel": "connect"
+    "unitCode": "B13",
+    "port": "compress",
+    "pixel": "connect",
+    "system": "program"
   },
   {
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
-    "value": "83.527",
-    "port": "connect",
-    "sensor": "hack"
+    "value": "00.00",
+    "firewall": "program"
   },
   {
-    "type": "MeasuredValue",
-    "unitCode": "UNKNOWN",
-    "interface": "reboot",
-    "sensor": "reboot",
-    "driver": "generate",
-    "port": "synthesize"
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "unitCode": "B13",
+    "panel": "reboot"
   }
 ]

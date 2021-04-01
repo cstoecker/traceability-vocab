@@ -1,26 +1,33 @@
 [
   {
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
     "type": "ChemicalProperty",
-    "formula": "Po",
-    "inchi": "InChI=1S/Po",
-    "inchikey": "HZEBHPIOVYHPMT-UHFFFAOYSA-N",
-    "protocol": "quantify"
-  },
-  {
-    "type": "ChemicalProperty",
-    "microchip": "index",
-    "alarm": "calculate",
-    "sensor": "transmit"
+    "name": "Gadolinium",
+    "inchi": "InChI=1S/Gd",
+    "inchikey": "UIWYJDYFSGRHKR-UHFFFAOYSA-N",
+    "pixel": "compress",
+    "feed": "generate",
+    "capacitor": "copy",
+    "application": "reboot"
   },
   {
     "@context": [
       "https://w3id.org/traceability/v1"
     ],
     "type": "ChemicalProperty",
-    "name": "Selenium",
-    "formula": "Se",
-    "inchikey": "BUGBHKTXTAQXES-UHFFFAOYSA-N",
-    "matrix": "program",
-    "monitor": "navigate"
+    "formula": "F",
+    "inchi": "InChI=1S/F",
+    "bus": "navigate"
+  },
+  {
+    "@context": [
+      "https://w3id.org/traceability/v1"
+    ],
+    "name": "Mendelevium",
+    "inchi": "InChI=1S/Md",
+    "system": "reboot",
+    "sensor": "synthesize"
   }
 ]

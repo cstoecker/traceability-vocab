@@ -1,16 +1,19 @@
 [
   {
-    "type": [
-      "CrudeOilProduct"
+    "sensor": "parse",
+    "protocol": "transmit"
+  },
+  {
+    "port": "program",
+    "panel": "generate"
+  },
+  {
+    "@context": [
+      "https://w3id.org/traceability/v1"
     ],
-    "panel": "parse"
-  },
-  {
-    "bandwidth": "connect",
-    "bus": "index",
-    "sensor": "calculate"
-  },
-  {
-    "application": "generate"
+    "application": "generate",
+    "driver": "override",
+    "panel": "program",
+    "alarm": "program"
   }
 ]

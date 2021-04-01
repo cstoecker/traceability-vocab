@@ -14,22 +14,22 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "Customer",
-    "name": "Aurelie Kohler",
+    "name": "Pearlie Rosenbaum",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "330 Wintheiser Springs",
-      "addressLocality": "East Ciaraport",
-      "addressRegion": "California",
-      "postalCode": "37752",
-      "addressCountry": "New Caledonia"
+      "streetAddress": "46571 Ruth Harbors",
+      "addressLocality": "Port Spencer",
+      "addressRegion": "Indiana",
+      "postalCode": "95152",
+      "addressCountry": "Antigua and Barbuda"
     },
-    "telephone": "555-597-1586",
-    "email": "Sylvia.Grady@example.com"
+    "telephone": "555-358-4210",
+    "email": "Dovie79@example.com"
   },
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..rScdZQfBr-S9rR4XgkBqgC1A-I-dYCEPYSn8_mXqxzTP-gfNL2SSOBtc6K1jw1tjEqWq4lnzDR194wenSZ5JDw",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..Eo4PIAADEReD1AQC0J6YdLHUbTk7SUCKjGAzRYqkp2W9MVqzHTnhIVF7nYaVG9G3CqP8AcWp-0L2VZLPg8iXDw",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

@@ -14,74 +14,74 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "LEIentity",
-    "legalName": "MacGyver Group",
-    "legalNameLanguage": "cz",
+    "legalName": "Schmeler, Hettinger and Quigley",
+    "legalNameLanguage": "en_AU",
     "otherNames": [
-      "Smith - Cronin",
-      "Torp - Legros"
+      "Hilll - Mann",
+      "Armstrong - Corwin"
     ],
     "transliteratedOtherNames": [
-      "Smith - Cronin",
-      "Torp - Legros"
+      "Hilll - Mann",
+      "Armstrong - Corwin"
     ],
     "legalAddress": {
       "type": "LEIaddress",
-      "language": "id_ID",
+      "language": "en_AU_ocker",
       "addressLines": [
-        "Harris and Sons",
-        "1193 Schmitt Brook"
+        "Hilll, Hoeger and Breitenberg",
+        "907 Labadie Inlet"
       ],
-      "addressNumber": "254",
-      "addressNumberWithinBuilding": "3",
-      "mailRouting": "73201 Bosco Fork, 16179-9066",
-      "city": "North Dedrickside",
+      "addressNumber": "89",
+      "addressNumberWithinBuilding": "2",
+      "mailRouting": "4905 Hoppe Mill, 98163",
+      "city": "Heavenhaven",
       "region": "Borders",
-      "country": "Qatar",
-      "postalCode": "02906-7048"
+      "country": "Aruba",
+      "postalCode": "86920"
     },
     "headquartersAddress": {
       "type": "LEIaddress",
-      "language": "uk",
+      "language": "en_CA",
       "addressLines": [
-        "O'Conner - Gislason",
-        "43347 Jerrod Cape"
+        "Rempel - Robel",
+        "11707 Lynch Common"
       ],
-      "addressNumber": "474",
-      "addressNumberWithinBuilding": "10",
-      "mailRouting": "164 Waters Forest, 18215-3530",
-      "city": "Lake Pierreborough",
+      "addressNumber": "208",
+      "addressNumberWithinBuilding": "7",
+      "mailRouting": "8123 Buckridge Heights, 35069",
+      "city": "Margaritafort",
       "region": "Buckinghamshire",
-      "country": "Benin",
-      "postalCode": "41833-1061"
+      "country": "Libyan Arab Jamahiriya",
+      "postalCode": "28148-5119"
     },
     "registrationAuthority": {
       "type": "LEIauthority",
-      "validationAuthorityID": "RA000005",
-      "otherValidationAuthorityID": "4YZ2SCEI",
-      "validationAuthorityEntityID": "KHW0JI6DDYU5NCNFVEWN"
+      "validationAuthorityID": "RA000004",
+      "otherValidationAuthorityID": "GUWI1ZV3",
+      "validationAuthorityEntityID": "CAWMXCOXN2GJULYNR9MD"
     },
-    "legalJurisdiction": "Bedfordshire",
-    "entityCategory": "Grocery",
-    "legalForm": "CORPORATION",
+    "legalJurisdiction": "Berkshire",
+    "entityCategory": "Finance",
+    "legalForm": "LLC",
     "associatedEntity": {
       "type": "Organization",
-      "leiCode": "8QDV92HGE7ZK2N5A1GMA",
-      "name": "Little LLC"
+      "leiCode": "9HCBES1OHV4OE8CXR3S9",
+      "name": "Lindgren Group"
     },
-    "status": "REJECTED",
+    "status": "IN PROGRESS",
     "expirationDate": "2022-07-11",
-    "expirationReason": "syndicate enterprise technologies",
+    "expirationReason": "mesh sexy users",
     "successorEntity": {
       "type": "Organization",
-      "leiCode": "L666S0P33KGW6ACB04ED",
-      "name": "Bashirian - Mraz"
+      "leiCode": "2PD7FK5V3FJY3GA5QEYY",
+      "name": "Hammes, Zemlak and Stroman"
     },
     "otherAddresses": []
   },
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..gus9dFfzEYHhIWA8CNUZa0cxnFcwQCs4MiHxE3ixYOL9D5zACgqWDhlUft1tX8cdwf8QDgBUeU5CFLcsTsQBBA",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..2K76uLWsZkml1M5Axntw_hiDVl6Hb1qIYvyKJFt9ryPZv6CWebh9sr5S5aMwwINfgebZWqyLsdO2ABMobuPTCA",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

@@ -4,60 +4,39 @@
       "https://w3id.org/traceability/v1"
     ],
     "customer": {
-      "type": "Organization",
-      "name": "Kling - Wolff",
-      "description": "Innovative directional website",
-      "address": {
-        "type": "PostalAddress",
-        "streetAddress": "8367 Reinger Ridges",
-        "addressLocality": "Port Samir",
-        "addressRegion": "Tennessee",
-        "postalCode": "64622-3624",
-        "addressCountry": "Chile"
-      },
-      "email": "Giovanni12@example.com",
-      "phoneNumber": "555-237-7689",
-      "faxNumber": "555-825-3268"
-    },
-    "port": "index",
-    "panel": "index"
-  },
-  {
-    "@context": [
-      "https://w3id.org/traceability/v1"
-    ],
-    "type": [
-      "Purchase"
-    ],
-    "bus": "compress",
-    "sensor": "quantify"
-  },
-  {
-    "customer": {
       "type": "Person",
-      "firstName": "Lizeth",
-      "lastName": "Rau",
-      "email": "Hulda.Hane@example.com",
-      "phoneNumber": "555-558-2265",
+      "firstName": "Timmy",
+      "lastName": "Kuhn",
+      "email": "Alexandrine.Labadie@example.org",
+      "phoneNumber": "555-756-6381",
       "worksFor": {
         "type": "Organization",
-        "name": "Kunze Inc",
-        "description": "Re-engineered client-server archive",
+        "name": "Streich, Halvorson and Bartoletti",
+        "description": "Upgradable multimedia framework",
         "address": {
           "type": "PostalAddress",
-          "streetAddress": "139 Gottlieb Court",
-          "addressLocality": "Russelborough",
-          "addressRegion": "Louisiana",
-          "postalCode": "88331",
-          "addressCountry": "Norfolk Island"
+          "streetAddress": "188 Melissa Curve",
+          "addressLocality": "Kerlukebury",
+          "addressRegion": "Illinois",
+          "postalCode": "63731",
+          "addressCountry": "Chile"
         },
-        "email": "Marcelina_Heaney5@example.org",
-        "phoneNumber": "555-492-6097",
-        "faxNumber": "555-507-5245"
+        "email": "Amiya_Rowe70@example.net",
+        "phoneNumber": "555-923-6465",
+        "faxNumber": "555-776-5289"
       },
-      "jobTitle": "Corporate Optimization Analyst"
+      "jobTitle": "District Solutions Planner"
     },
-    "application": "input",
-    "sensor": "compress"
+    "matrix": "compress"
+  },
+  {
+    "hard drive": "calculate",
+    "application": "connect"
+  },
+  {
+    "circuit": "transmit",
+    "capacitor": "parse",
+    "transmitter": "override",
+    "alarm": "bypass"
   }
 ]

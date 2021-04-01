@@ -14,26 +14,26 @@
       "https://w3id.org/traceability/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "7776875140570",
+    "globalLocationNumber": "4857983822763",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "56.0093",
-      "longitude": "83.2396"
+      "latitude": "-67.1917",
+      "longitude": "-24.5502"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Swaniawski and Sons",
-      "streetAddress": "64890 Jena Street",
-      "addressLocality": "Noraville",
-      "addressRegion": "Tennessee",
-      "postalCode": "32854",
-      "addressCountry": "Australia"
+      "organizationName": "Schaden - Jacobi",
+      "streetAddress": "2914 Mohr Hill",
+      "addressLocality": "Mayerfort",
+      "addressRegion": "Florida",
+      "postalCode": "11040-9870",
+      "addressCountry": "Slovakia (Slovak Republic)"
     }
   },
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..DrNpd3FmrjulQo9L-jkg8aBWV5IE45OhbltVJPbPY-zyWgGZoi0w6j_VnWPcMvlYptgaOUFBknHqalSBpt4yDQ",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..ojlyv9n63KuVMzI7kwgTy4DShN_B6-DpDUHbhCEvMczg1YDtyg8toXMXlrdX5sEZu8mTOcr-iohR-CBcZIppAw",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }
